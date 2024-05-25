@@ -1,0 +1,16 @@
+Prefix(owl:=<http://www.w3.org/2002/07/owl#>)
+
+Ontology(
+SubClassOf(<2194> ObjectIntersectionOf(<1404> <01312> <03336> <0725> <0726> <08300>))
+SubClassOf(<26044> ObjectIntersectionOf(<17932> <08672>))
+SubClassOf(<95294> ObjectIntersectionOf(<20921> <0185> <0334> <0651>))
+EquivalentClasses(<95295> ObjectIntersectionOf(<95294> <015893> <0352>))
+SubClassOf(<99663> ObjectIntersectionOf(<18437> <01082> <0185> <0187> <0334> <0335> <0651> <0820>))
+EquivalentClasses(<99664> ObjectIntersectionOf(<99663> <01021> <01100> <01156> <01162> <01254> <01255> <01256> <01282> <01283> <013962> <014094> <014178> <014272> <014431> <01527> <01546> <01696> <01698> <0181> <01867> <01871> <01872> <01874> <01876> <01877> <01878> <01879> <01899> <0190> <0193> <0194> <01941> <02012> <02210> <02295> <02348> <02349> <02361> <02364> <02365> <02367> <02483> <02526> <02581> <0269> <02834> <0284> <0286> <03108> <0337> <0340> <0341> <0342> <0344> <0346> <0348> <0349> <0352> <0356> <0357> <0359> <0363> <03649> <03650> <0367> <0409> <04098> <0410> <04718> <04740> <0521> <05476> <0609> <0620> <0705> <0748> <0781> <0784> <0853> <0860> <0870>))
+EquivalentClasses(<015893> ObjectSomeValuesFrom(<0040> <13863>))
+EquivalentClasses(<03336> ObjectSomeValuesFrom(<00125> <26044>))
+EquivalentClasses(<061> ObjectSomeValuesFrom(<00125> <17932>))
+EquivalentClasses(<0725> ObjectSomeValuesFrom(<00125> <20751>))
+EquivalentClasses(<0726> ObjectSomeValuesFrom(<00125> <40821>))
+EquivalentClasses(<0870> ObjectSomeValuesFrom(<0040> <13649>))
+)

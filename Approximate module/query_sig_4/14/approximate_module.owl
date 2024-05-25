@@ -1,0 +1,17 @@
+Prefix(owl:=<http://www.w3.org/2002/07/owl#>)
+
+Ontology(
+SubClassOf(<101097> ObjectIntersectionOf(<17767> <0118> <0141> <0142> <0143>))
+SubClassOf(<16984> ObjectIntersectionOf(<17210> <02528> <0405>))
+SubClassOf(<17018> ObjectIntersectionOf(<16984> <05486>))
+SubClassOf(<17325> ObjectIntersectionOf(<17018> <0208> <05486> <06406>))
+SubClassOf(<17767> ObjectIntersectionOf(<17325> <17761> <0118> <0142> <06832> <0834>))
+SubClassOf(<28597> ObjectIntersectionOf(<20130> <0405> <06233> <06322>))
+EquivalentClasses(<6606> ObjectIntersectionOf(<6642> <9306>))
+EquivalentClasses(<9118> ObjectIntersectionOf(<3810> <013264> <013265> <016577> <017850> <04125> <05017> <08890>))
+EquivalentClasses(<9306> ObjectIntersectionOf(<4867> <9118> <013264> <013265> <05041>))
+EquivalentClasses(<016577> ObjectSomeValuesFrom(<00138> <12578>))
+EquivalentClasses(<02528> ObjectSomeValuesFrom(<0052> <28597>))
+EquivalentClasses(<06322> ObjectSomeValuesFrom(<0052> <16984>))
+EquivalentClasses(<06709> ObjectSomeValuesFrom(<00175> <6657>))
+)

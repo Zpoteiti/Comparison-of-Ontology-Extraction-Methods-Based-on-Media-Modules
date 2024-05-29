@@ -1,0 +1,825 @@
+==================================================================================
+ISWC 2017 Minimal Modules (Version 0.1)
+==================================================================================
+
+
+Loading ontology...
+Number of logical axioms in original ontology: 33
+Ontology loaded.
+Finished loading.
+Reading signature from /home/yc/thesis/Signatures_nci16/sig_50_8/28...
+	Number of concept names in signature: 50
+	Number of role names in signature: 10
+Computing Sigma-entailment:
+
+Computing witness justifications for <106320>
+
+Computing witness justifications for <19023>
+
+Computing witness justifications for <106322>
+
+Computing witness justifications for <33570>
+
+Computing witness justifications for <84918>
+
+Computing witness justifications for <114346>
+
+Computing witness justifications for <44506>
+
+Computing witness justifications for <39074>
+
+Computing witness justifications for <115518>
+
+Computing witness justifications for <99173>
+
+Computing witness justifications for <32047>
+
+Computing witness justifications for <50790>
+
+Computing witness justifications for <81013>
+
+Computing witness justifications for <59007>
+
+Computing witness justifications for <0923>
+
+Computing witness justifications for <22008>
+
+Computing witness justifications for <85480>
+
+Computing witness justifications for <58089>
+
+Computing witness justifications for <20944>
+
+Computing witness justifications for <75891>
+
+Computing witness justifications for <34094>
+
+Computing witness justifications for <121146>
+
+Computing witness justifications for <42195>
+
+Computing witness justifications for <5086>
+
+Computing witness justifications for <35132>
+
+Computing witness justifications for <63647>
+
+Computing witness justifications for <02448>
+
+Computing witness justifications for <93494>
+
+Computing witness justifications for <72150>
+
+Computing witness justifications for <119148>
+
+Computing witness justifications for <103502>
+
+Computing witness justifications for <18437>
+
+Computing witness justifications for <8706>
+
+Computing witness justifications for <89262>
+
+Computing witness justifications for <15135>
+
+Computing witness justifications for <112971>
+
+Computing witness justifications for <18089>
+
+Computing witness justifications for <122261>
+
+Computing witness justifications for <016212>
+
+Computing witness justifications for <93280>
+
+Computing witness justifications for <114910>
+
+Computing witness justifications for <78451>
+
+Computing witness justifications for <20568>
+
+Computing witness justifications for <121323>
+
+Computing witness justifications for <51351>
+
+Computing witness justifications for <012001>
+
+Computing witness justifications for <52686>
+
+Computing witness justifications for <36697>
+
+Computing witness justifications for <107679>
+
+Computing witness justifications for <9806>
+Number of minimal modules: 45
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010476> ObjectSomeValuesFrom(<00113> <37077>) )
+EquivalentClasses(<010948> ObjectSomeValuesFrom(<00115> <38665>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 13
+--------------------------------------------
+EquivalentClasses(<09608> ObjectSomeValuesFrom(<00115> <3331>) )
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010476> ObjectSomeValuesFrom(<00113> <37077>) )
+EquivalentClasses(<4341> ObjectIntersectionOf(<010476> <013191> <013192> <09677> <09679> <7056> <8504>) )
+EquivalentClasses(<68679> ObjectIntersectionOf(<4341> <8843>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 14
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010480> ObjectSomeValuesFrom(<00115> <38730>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+EquivalentClasses(<016776> ObjectSomeValuesFrom(<00115> <36172>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 13
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010476> ObjectSomeValuesFrom(<00113> <37077>) )
+EquivalentClasses(<4341> ObjectIntersectionOf(<010476> <013191> <013192> <09677> <09679> <7056> <8504>) )
+EquivalentClasses(<68679> ObjectIntersectionOf(<4341> <8843>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+EquivalentClasses(<016776> ObjectSomeValuesFrom(<00115> <36172>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 14
+--------------------------------------------
+EquivalentClasses(<016775> ObjectSomeValuesFrom(<00115> <35143>) )
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010480> ObjectSomeValuesFrom(<00115> <38730>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 13
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<68679> ObjectIntersectionOf(<4341> <8843>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+EquivalentClasses(<8843> ObjectIntersectionOf(<3457> <8521>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<09215> ObjectSomeValuesFrom(<0088> <28054>) )
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<8521> ObjectIntersectionOf(<3211> <8319>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8319> ObjectIntersectionOf(<09215> <27268>) )
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+EquivalentClasses(<09680> ObjectSomeValuesFrom(<00115> <3036>) )
+The size of a minimal module: 16
+--------------------------------------------
+EquivalentClasses(<09278> ObjectSomeValuesFrom(<00115> <2875>) )
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010476> ObjectSomeValuesFrom(<00113> <37077>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 13
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<09139> ObjectSomeValuesFrom(<00115> <3445>) )
+EquivalentClasses(<68679> ObjectIntersectionOf(<4341> <8843>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+EquivalentClasses(<8843> ObjectIntersectionOf(<3457> <8521>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<09215> ObjectSomeValuesFrom(<0088> <28054>) )
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<8521> ObjectIntersectionOf(<3211> <8319>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8319> ObjectIntersectionOf(<09215> <27268>) )
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 16
+--------------------------------------------
+EquivalentClasses(<09608> ObjectSomeValuesFrom(<00115> <3331>) )
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<68679> ObjectIntersectionOf(<4341> <8843>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+EquivalentClasses(<8843> ObjectIntersectionOf(<3457> <8521>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<09215> ObjectSomeValuesFrom(<0088> <28054>) )
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<8521> ObjectIntersectionOf(<3211> <8319>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8319> ObjectIntersectionOf(<09215> <27268>) )
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 16
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010476> ObjectSomeValuesFrom(<00113> <37077>) )
+EquivalentClasses(<4341> ObjectIntersectionOf(<010476> <013191> <013192> <09677> <09679> <7056> <8504>) )
+EquivalentClasses(<09139> ObjectSomeValuesFrom(<00115> <3445>) )
+EquivalentClasses(<68679> ObjectIntersectionOf(<4341> <8843>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 14
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010476> ObjectSomeValuesFrom(<00113> <37077>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+EquivalentClasses(<016776> ObjectSomeValuesFrom(<00115> <36172>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 13
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010476> ObjectSomeValuesFrom(<00113> <37077>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+EquivalentClasses(<09334> ObjectSomeValuesFrom(<00115> <2998>) )
+The size of a minimal module: 13
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010476> ObjectSomeValuesFrom(<00113> <37077>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+EquivalentClasses(<09680> ObjectSomeValuesFrom(<00115> <3036>) )
+The size of a minimal module: 13
+--------------------------------------------
+EquivalentClasses(<09278> ObjectSomeValuesFrom(<00115> <2875>) )
+SubClassOf(<106321> <20420>)
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+EquivalentClasses(<010475> ObjectSomeValuesFrom(<00113> <37003>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 13
+--------------------------------------------
+EquivalentClasses(<09608> ObjectSomeValuesFrom(<00115> <3331>) )
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010480> ObjectSomeValuesFrom(<00115> <38730>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 13
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010480> ObjectSomeValuesFrom(<00115> <38730>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<09283> ObjectSomeValuesFrom(<00115> <3832>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 13
+--------------------------------------------
+EquivalentClasses(<016775> ObjectSomeValuesFrom(<00115> <35143>) )
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010476> ObjectSomeValuesFrom(<00113> <37077>) )
+EquivalentClasses(<4341> ObjectIntersectionOf(<010476> <013191> <013192> <09677> <09679> <7056> <8504>) )
+EquivalentClasses(<68679> ObjectIntersectionOf(<4341> <8843>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 14
+--------------------------------------------
+EquivalentClasses(<09608> ObjectSomeValuesFrom(<00115> <3331>) )
+SubClassOf(<106321> <20420>)
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+EquivalentClasses(<010475> ObjectSomeValuesFrom(<00113> <37003>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 13
+--------------------------------------------
+EquivalentClasses(<016775> ObjectSomeValuesFrom(<00115> <35143>) )
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<68679> ObjectIntersectionOf(<4341> <8843>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+EquivalentClasses(<8843> ObjectIntersectionOf(<3457> <8521>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<09215> ObjectSomeValuesFrom(<0088> <28054>) )
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<8521> ObjectIntersectionOf(<3211> <8319>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8319> ObjectIntersectionOf(<09215> <27268>) )
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 16
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010476> ObjectSomeValuesFrom(<00113> <37077>) )
+EquivalentClasses(<4341> ObjectIntersectionOf(<010476> <013191> <013192> <09677> <09679> <7056> <8504>) )
+EquivalentClasses(<68679> ObjectIntersectionOf(<4341> <8843>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<09283> ObjectSomeValuesFrom(<00115> <3832>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 14
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010476> ObjectSomeValuesFrom(<00113> <37077>) )
+EquivalentClasses(<09139> ObjectSomeValuesFrom(<00115> <3445>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 13
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010480> ObjectSomeValuesFrom(<00115> <38730>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+EquivalentClasses(<09334> ObjectSomeValuesFrom(<00115> <2998>) )
+The size of a minimal module: 13
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<68679> ObjectIntersectionOf(<4341> <8843>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+EquivalentClasses(<8843> ObjectIntersectionOf(<3457> <8521>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<09215> ObjectSomeValuesFrom(<0088> <28054>) )
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<09283> ObjectSomeValuesFrom(<00115> <3832>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<8521> ObjectIntersectionOf(<3211> <8319>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8319> ObjectIntersectionOf(<09215> <27268>) )
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 16
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010480> ObjectSomeValuesFrom(<00115> <38730>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+EquivalentClasses(<09680> ObjectSomeValuesFrom(<00115> <3036>) )
+The size of a minimal module: 13
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+EquivalentClasses(<010475> ObjectSomeValuesFrom(<00113> <37003>) )
+EquivalentClasses(<016776> ObjectSomeValuesFrom(<00115> <36172>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 13
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010476> ObjectSomeValuesFrom(<00113> <37077>) )
+EquivalentClasses(<4341> ObjectIntersectionOf(<010476> <013191> <013192> <09677> <09679> <7056> <8504>) )
+EquivalentClasses(<68679> ObjectIntersectionOf(<4341> <8843>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+EquivalentClasses(<09334> ObjectSomeValuesFrom(<00115> <2998>) )
+The size of a minimal module: 14
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+EquivalentClasses(<010475> ObjectSomeValuesFrom(<00113> <37003>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<09283> ObjectSomeValuesFrom(<00115> <3832>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 13
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010476> ObjectSomeValuesFrom(<00113> <37077>) )
+EquivalentClasses(<4341> ObjectIntersectionOf(<010476> <013191> <013192> <09677> <09679> <7056> <8504>) )
+EquivalentClasses(<68679> ObjectIntersectionOf(<4341> <8843>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+EquivalentClasses(<09680> ObjectSomeValuesFrom(<00115> <3036>) )
+The size of a minimal module: 14
+--------------------------------------------
+EquivalentClasses(<09608> ObjectSomeValuesFrom(<00115> <3331>) )
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010476> ObjectSomeValuesFrom(<00113> <37077>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 13
+--------------------------------------------
+EquivalentClasses(<09278> ObjectSomeValuesFrom(<00115> <2875>) )
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010480> ObjectSomeValuesFrom(<00115> <38730>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 13
+--------------------------------------------
+EquivalentClasses(<09278> ObjectSomeValuesFrom(<00115> <2875>) )
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010476> ObjectSomeValuesFrom(<00113> <37077>) )
+EquivalentClasses(<4341> ObjectIntersectionOf(<010476> <013191> <013192> <09677> <09679> <7056> <8504>) )
+EquivalentClasses(<68679> ObjectIntersectionOf(<4341> <8843>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 14
+--------------------------------------------
+EquivalentClasses(<09278> ObjectSomeValuesFrom(<00115> <2875>) )
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<68679> ObjectIntersectionOf(<4341> <8843>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+EquivalentClasses(<8843> ObjectIntersectionOf(<3457> <8521>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<09215> ObjectSomeValuesFrom(<0088> <28054>) )
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<8521> ObjectIntersectionOf(<3211> <8319>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8319> ObjectIntersectionOf(<09215> <27268>) )
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 16
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010948> ObjectSomeValuesFrom(<00115> <38665>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+EquivalentClasses(<010475> ObjectSomeValuesFrom(<00113> <37003>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 13
+--------------------------------------------
+EquivalentClasses(<016775> ObjectSomeValuesFrom(<00115> <35143>) )
+SubClassOf(<106321> <20420>)
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+EquivalentClasses(<010475> ObjectSomeValuesFrom(<00113> <37003>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 13
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<68679> ObjectIntersectionOf(<4341> <8843>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+EquivalentClasses(<8843> ObjectIntersectionOf(<3457> <8521>) )
+EquivalentClasses(<016776> ObjectSomeValuesFrom(<00115> <36172>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<09215> ObjectSomeValuesFrom(<0088> <28054>) )
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<8521> ObjectIntersectionOf(<3211> <8319>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8319> ObjectIntersectionOf(<09215> <27268>) )
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 16
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010948> ObjectSomeValuesFrom(<00115> <38665>) )
+EquivalentClasses(<010480> ObjectSomeValuesFrom(<00115> <38730>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 13
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<09139> ObjectSomeValuesFrom(<00115> <3445>) )
+EquivalentClasses(<010480> ObjectSomeValuesFrom(<00115> <38730>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 13
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010476> ObjectSomeValuesFrom(<00113> <37077>) )
+EquivalentClasses(<4341> ObjectIntersectionOf(<010476> <013191> <013192> <09677> <09679> <7056> <8504>) )
+EquivalentClasses(<010948> ObjectSomeValuesFrom(<00115> <38665>) )
+EquivalentClasses(<68679> ObjectIntersectionOf(<4341> <8843>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 14
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<09139> ObjectSomeValuesFrom(<00115> <3445>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+EquivalentClasses(<010475> ObjectSomeValuesFrom(<00113> <37003>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 13
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<68679> ObjectIntersectionOf(<4341> <8843>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+EquivalentClasses(<8843> ObjectIntersectionOf(<3457> <8521>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<09215> ObjectSomeValuesFrom(<0088> <28054>) )
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<8521> ObjectIntersectionOf(<3211> <8319>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8319> ObjectIntersectionOf(<09215> <27268>) )
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+EquivalentClasses(<09334> ObjectSomeValuesFrom(<00115> <2998>) )
+The size of a minimal module: 16
+--------------------------------------------
+EquivalentClasses(<016775> ObjectSomeValuesFrom(<00115> <35143>) )
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010476> ObjectSomeValuesFrom(<00113> <37077>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 13
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010476> ObjectSomeValuesFrom(<00113> <37077>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<09283> ObjectSomeValuesFrom(<00115> <3832>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 13
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+EquivalentClasses(<010475> ObjectSomeValuesFrom(<00113> <37003>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+EquivalentClasses(<09334> ObjectSomeValuesFrom(<00115> <2998>) )
+The size of a minimal module: 13
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+EquivalentClasses(<010475> ObjectSomeValuesFrom(<00113> <37003>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<3898> ObjectIntersectionOf(<010471> <010472> <010475> <010476> <010480> <012401> <012402> <012403> <012404> <4341> <7185>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+EquivalentClasses(<09680> ObjectSomeValuesFrom(<00115> <3036>) )
+The size of a minimal module: 13
+--------------------------------------------
+SubClassOf(<106321> <20420>)
+EquivalentClasses(<010948> ObjectSomeValuesFrom(<00115> <38665>) )
+EquivalentClasses(<68679> ObjectIntersectionOf(<4341> <8843>) )
+SubClassOf(<18437> <03050>)
+EquivalentClasses(<03050> ObjectSomeValuesFrom(<0041> <14225>) )
+EquivalentClasses(<5086> ObjectIntersectionOf(<3898> <68679>) )
+EquivalentClasses(<8843> ObjectIntersectionOf(<3457> <8521>) )
+SubClassOf(<20420> <03050>)
+SubClassOf(<75891> <20420>)
+EquivalentClasses(<09215> ObjectSomeValuesFrom(<0088> <28054>) )
+EquivalentClasses(<7376> ObjectIntersectionOf(<010034> <010350> <010485> <010948> <011368> <012787> <016775> <016776> <016777> <016778> <03382> <09139> <09278> <09283> <09288> <09334> <09608> <09621> <09629> <09680> <09709> <09996> <3547> <4456> <9351>) )
+EquivalentClasses(<51351> ObjectIntersectionOf(<01374> <01375> <013971> <014023> <014663> <02355> <0268> <03050> <0823> <21562>) )
+EquivalentClasses(<8521> ObjectIntersectionOf(<3211> <8319>) )
+SubClassOf(<106322> <106321>)
+EquivalentClasses(<8319> ObjectIntersectionOf(<09215> <27268>) )
+EquivalentClasses(<8706> ObjectIntersectionOf(<7376> <7865>) )
+The size of a minimal module: 16

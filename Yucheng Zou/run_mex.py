@@ -11,7 +11,7 @@ import logging
 # Constants
 MEX_EXECUTABLE = "./mex.bin"
 ONTOLOGY_PATH = "/home/yz/formod/workspace/nci-16/nci-16.krss.owl"
-SIGNATURE_FOLDER = "/home/yz/thesis/sig_MEX/sig_50_1/"
+SIGNATURE_FOLDER = "/home/yz/thesis/sig_MEX/sig_50_10/"
 RESULT_FOLDER = "/home/yz/thesis/result_mex_nci-16/"
 TIMEOUT = 600
 

@@ -8,9 +8,9 @@ import logging
 # Constants
 JAVA_EXECUTABLE = "java"
 JAVA_JAR_PATH = "/home/yc/thesis/ISWC17.jar"
-SIGNATURE_FOLDER = "/home/yc/thesis/Signatures_nci16/sig_50_3/"
+SIGNATURE_FOLDER = "/home/yc/thesis/Signatures_nci16/sig_50_10/"
 RESULT_FOLDER = "/home/yc/thesis/result_nci-16_mex+zoom/"
-MODULES_FOLDER = "/home/yc/thesis/result_mex/sig_50_3/"
+MODULES_FOLDER = "/home/yc/thesis/result_mex/sig_50_10/"
 TIMEOUT_SECONDS = 300  # Timeout for the Java process (in seconds)
 
 # Logging configuration

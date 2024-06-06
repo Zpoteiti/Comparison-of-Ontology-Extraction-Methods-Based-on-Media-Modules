@@ -8,9 +8,9 @@ import logging
 # Constants
 JAVA_EXECUTABLE = "java"
 JAVA_JAR_PATH = "/home/yc/thesis/ISWC17.jar"
-ONTOLOGY_PATH = "/home/yc/formod/workspace/nci-16/nci-16.owl"
-SIGNATURE_FOLDER = "/home/yc/thesis/Signatures_nci16/sig_50_8"
-RESULT_FOLDER = "/home/yc/thesis/result_nci-16"
+ONTOLOGY_PATH = "/home/yc/thesis/snomedct012016.owl"
+SIGNATURE_FOLDER = "/home/yc/thesis/snomedct16_sig"
+RESULT_FOLDER = "/home/yc/thesis/snomedct16_result"
 
 # Logging configuration
 logging.basicConfig(level=logging.INFO)
@@ -42,9 +42,9 @@ def run_java(signature_file):
         return None, None, None
 
 # Function to save relevant output to a text file
-def save_output(output, folder, id, iteration):
-    filename = f"{id}-{iteration}.txt"
-    directory = os.path.join(RESULT_FOLDER, folder)
+def save_output(output, result_subfolder, id):
+    filename = f"{id}.txt"
+    directory = os.path.join(RESULT_FOLDER, result_subfolder)
     os.makedirs(directory, exist_ok=True)
 
     filepath = os.path.join(directory, filename)
@@ -52,18 +52,19 @@ def save_output(output, folder, id, iteration):
         file.write(output)
 
 # Function to write results to CSV file
-def write_to_csv(results, folder, result_folder):
-    csv_name = folder + '_java_results.csv'
+def write_to_csv(results, result_folder, folder_name):
+    csv_name = folder_name + '_java_results.csv'
     file_path = os.path.join(result_folder, csv_name)
     with open(file_path, 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(['Signature', 'Iteration', 'Time Spent'])
+        writer.writerow(['Signature', 'Time Spent'])
         for result in results:
             writer.writerow(result)
 
 # Main function
 def main(signature_folder, result_folder):
-    folder = signature_folder.split('/')[-1]  # Extract folder name from signature folder path
+    folder_name = os.path.basename(os.path.normpath(signature_folder))  # Extract folder name from signature folder path
+    result_subfolder = os.path.join(result_folder, folder_name)  # Subfolder for individual results
     results = []
 
     filenames = os.listdir(signature_folder)
@@ -71,24 +72,20 @@ def main(signature_folder, result_folder):
 
     for filename in filenames:
         signature_file = os.path.join(signature_folder, filename)
-        signature_results = []
+        id = signature_file.split('/')[-1].split('.')[0]  # Get the id from the filename
 
-        for i in range(10):  # Run each signature 10 times
-            id = signature_file.split('/')[-1]
-            logger.info(f"Signature: {id}, Iteration: {i+1}")
+        logger.info(f"Processing signature: {id}")
 
-            output, elapsed_time, returncode = run_java(signature_file)
-            if returncode == 0:
-                save_output(output, folder, id, i+1)  # Pass folder variable to save_output function
-                signature_results.append([filename, i+1, elapsed_time])
-            else:
-                logger.warning(f"Skipping signature {id} due to error or timeout")
-                signature_results.append([filename, i+1, 'NA'])
-                break  # Skip remaining iterations if an error occurs
+        output, elapsed_time, returncode = run_java(signature_file)
+        if returncode == 0:
+            save_output(output, result_subfolder, id)  # Pass folder variable to save_output function
+            results.append([filename, elapsed_time])
+        else:
+            logger.warning(f"Skipping signature {id} due to error or timeout")
+            results.append([filename, 'NA'])
 
-        results.extend(signature_results)
-    write_to_csv(results, folder, result_folder)  # Pass result_folder variable to write_to_csv function
-    logger.info("Results written to java_results.csv")
+    write_to_csv(results, result_folder, folder_name)
+    logger.info(f"Results written to {folder_name}_java_results.csv")
 
 if __name__ == "__main__":
     main(SIGNATURE_FOLDER, RESULT_FOLDER)

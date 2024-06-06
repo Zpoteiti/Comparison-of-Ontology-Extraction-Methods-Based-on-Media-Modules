@@ -32,9 +32,9 @@ def generate_signature(file_path, num_signatures, num_concepts, num_roles, outpu
             f.write("Classes[\n" + '\n'.join(selected_concepts) + "\n]\n")
             f.write("Roles[\n" + '\n'.join(selected_roles) + "\n]\n")
 
-file_path = r"C:\thesis\formod-main\workspace\snomedct012016\terminologyWithDeclaration.owl"
-output_dir = r"C:\thesis\Signatures_snomedct16\sig_50_10"
-num_signatures = 100
+file_path = r"/home/yc/thesis/snomedct012016.owl"
+output_dir = r"/home/yc/thesis/snomedct16_sig"
+num_signatures = 1000
 num_concepts = 50
 num_roles = 10
 generate_signature(file_path, num_signatures, num_concepts, num_roles, output_dir)

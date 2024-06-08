@@ -1,0 +1,180 @@
+==================================================================================
+ISWC 2017 Minimal Modules (Version 0.1)
+==================================================================================
+
+
+Loading ontology...
+Number of logical axioms in original ontology: 137397
+Ontology loaded.
+Finished loading.
+Reading signature from C:\thesis\Signatures_nci16\sig_50_9\92...
+	Number of concept names in signature: 50
+	Number of role names in signature: 10
+Computing Sigma-entailment:
+
+Computing witness justifications for <95811>
+
+Computing witness justifications for <33295>
+
+Computing witness justifications for <27326>
+
+Computing witness justifications for <65447>
+
+Computing witness justifications for <80439>
+
+Computing witness justifications for <05339>
+
+Computing witness justifications for <80316>
+
+Computing witness justifications for <97994>
+
+Computing witness justifications for <2700>
+
+Computing witness justifications for <04201>
+
+Computing witness justifications for <54952>
+
+Computing witness justifications for <79215>
+
+Computing witness justifications for <29467>
+
+Computing witness justifications for <15907>
+
+Computing witness justifications for <50476>
+
+Computing witness justifications for <61121>
+
+Computing witness justifications for <33419>
+
+Computing witness justifications for <101786>
+
+Computing witness justifications for <01603>
+
+Computing witness justifications for <69139>
+
+Computing witness justifications for <9039>
+
+Computing witness justifications for <63479>
+
+Computing witness justifications for <23255>
+
+Computing witness justifications for <66745>
+
+Computing witness justifications for <27578>
+
+Computing witness justifications for <124220>
+
+Computing witness justifications for <9230>
+
+Computing witness justifications for <41505>
+
+Computing witness justifications for <20425>
+
+Computing witness justifications for <78830>
+
+Computing witness justifications for <9703>
+
+Computing witness justifications for <84472>
+
+Computing witness justifications for <21165>
+
+Computing witness justifications for <118129>
+
+Computing witness justifications for <2174>
+
+Computing witness justifications for <016419>
+
+Computing witness justifications for <76246>
+
+Computing witness justifications for <08388>
+
+Computing witness justifications for <51268>
+
+Computing witness justifications for <104118>
+
+Computing witness justifications for <89952>
+
+Computing witness justifications for <91944>
+
+Computing witness justifications for <28647>
+
+Computing witness justifications for <119804>
+
+Computing witness justifications for <05789>
+
+Computing witness justifications for <51272>
+
+Computing witness justifications for <57376>
+
+Computing witness justifications for <34631>
+
+Computing witness justifications for <83445>
+
+Computing witness justifications for <21093>
+Number of minimal modules: 3
+--------------------------------------------
+SubClassOf(<20480> <07724>)
+SubClassOf(<27578> <118317>)
+SubClassOf(<17557> <41515>)
+SubClassOf(<118317> <27573>)
+EquivalentClasses(<05041> ObjectSomeValuesFrom(<00135> <12366>) )
+SubClassOf(<27042> <05041>)
+EquivalentClasses(<01603> ObjectSomeValuesFrom(<00125> <16298>) )
+SubClassOf(<27573> <27042>)
+EquivalentClasses(<51272> ObjectIntersectionOf(<01144> <01165> <01275> <01282> <01356> <013996> <014386> <01493> <01551> <01699> <01700> <01848> <02035> <02208> <02271> <02275> <02350> <02359> <0250> <0284> <0290> <0295> <03112> <0337> <0338> <0339> <0341> <0342> <0343> <0346> <0349> <0351> <0352> <0356> <0358> <0360> <0363> <0368> <0506> <0507> <0901> <0902> <39597>) )
+SubClassOf(<39597> <012455>)
+SubClassOf(<17359> <06443>)
+EquivalentClasses(<02709> ObjectSomeValuesFrom(<00176> <17359>) )
+SubClassOf(<20150> <17557>)
+EquivalentClasses(<06443> ObjectSomeValuesFrom(<00132> <36329>) )
+EquivalentClasses(<01313> ObjectSomeValuesFrom(<00125> <20150>) )
+SubClassOf(<69139> <01313>)
+EquivalentClasses(<012455> ObjectSomeValuesFrom(<00132> <38171>) )
+SubClassOf(<41515> <20480>)
+EquivalentClasses(<07724> ObjectSomeValuesFrom(<0030> <12508>) )
+EquivalentClasses(<9039> ObjectIntersectionOf(<011547> <011567> <012014> <017837> <02709> <09171> <09289> <09290> <09294> <09933> <09978> <2916> <9311>) )
+The size of a minimal module: 20
+--------------------------------------------
+SubClassOf(<20480> <07724>)
+SubClassOf(<27578> <118317>)
+SubClassOf(<17557> <41515>)
+SubClassOf(<118317> <27573>)
+EquivalentClasses(<05041> ObjectSomeValuesFrom(<00135> <12366>) )
+EquivalentClasses(<09978> ObjectSomeValuesFrom(<00176> <16887>) )
+SubClassOf(<27042> <05041>)
+EquivalentClasses(<01603> ObjectSomeValuesFrom(<00125> <16298>) )
+SubClassOf(<27573> <27042>)
+EquivalentClasses(<51272> ObjectIntersectionOf(<01144> <01165> <01275> <01282> <01356> <013996> <014386> <01493> <01551> <01699> <01700> <01848> <02035> <02208> <02271> <02275> <02350> <02359> <0250> <0284> <0290> <0295> <03112> <0337> <0338> <0339> <0341> <0342> <0343> <0346> <0349> <0351> <0352> <0356> <0358> <0360> <0363> <0368> <0506> <0507> <0901> <0902> <39597>) )
+SubClassOf(<39597> <012455>)
+SubClassOf(<16887> <06202>)
+SubClassOf(<20150> <17557>)
+EquivalentClasses(<01313> ObjectSomeValuesFrom(<00125> <20150>) )
+SubClassOf(<69139> <01313>)
+EquivalentClasses(<012455> ObjectSomeValuesFrom(<00132> <38171>) )
+SubClassOf(<41515> <20480>)
+EquivalentClasses(<07724> ObjectSomeValuesFrom(<0030> <12508>) )
+EquivalentClasses(<06202> ObjectSomeValuesFrom(<00132> <36641>) )
+EquivalentClasses(<9039> ObjectIntersectionOf(<011547> <011567> <012014> <017837> <02709> <09171> <09289> <09290> <09294> <09933> <09978> <2916> <9311>) )
+The size of a minimal module: 20
+--------------------------------------------
+SubClassOf(<20480> <07724>)
+SubClassOf(<27578> <118317>)
+SubClassOf(<17557> <41515>)
+SubClassOf(<18524> <07364>)
+SubClassOf(<118317> <27573>)
+EquivalentClasses(<05041> ObjectSomeValuesFrom(<00135> <12366>) )
+SubClassOf(<27042> <05041>)
+EquivalentClasses(<01603> ObjectSomeValuesFrom(<00125> <16298>) )
+SubClassOf(<27573> <27042>)
+EquivalentClasses(<07364> ObjectSomeValuesFrom(<00132> <36704>) )
+EquivalentClasses(<51272> ObjectIntersectionOf(<01144> <01165> <01275> <01282> <01356> <013996> <014386> <01493> <01551> <01699> <01700> <01848> <02035> <02208> <02271> <02275> <02350> <02359> <0250> <0284> <0290> <0295> <03112> <0337> <0338> <0339> <0341> <0342> <0343> <0346> <0349> <0351> <0352> <0356> <0358> <0360> <0363> <0368> <0506> <0507> <0901> <0902> <39597>) )
+SubClassOf(<39597> <012455>)
+SubClassOf(<20150> <17557>)
+EquivalentClasses(<01313> ObjectSomeValuesFrom(<00125> <20150>) )
+SubClassOf(<69139> <01313>)
+EquivalentClasses(<012455> ObjectSomeValuesFrom(<00132> <38171>) )
+SubClassOf(<41515> <20480>)
+EquivalentClasses(<07724> ObjectSomeValuesFrom(<0030> <12508>) )
+EquivalentClasses(<9039> ObjectIntersectionOf(<011547> <011567> <012014> <017837> <02709> <09171> <09289> <09290> <09294> <09933> <09978> <2916> <9311>) )
+EquivalentClasses(<017837> ObjectSomeValuesFrom(<00176> <18524>) )
+The size of a minimal module: 20

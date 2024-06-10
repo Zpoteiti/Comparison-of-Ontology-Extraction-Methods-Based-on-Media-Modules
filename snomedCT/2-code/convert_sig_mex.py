@@ -1,8 +1,8 @@
 import os
 
 # Define input and output directories
-input_directory = "/home/yc/thesis/snomedct16_sig"
-output_directory = "/home/yc/thesis/sig_mex"
+input_directory = "/home/yc/thesis/snomedCT/0_sig/zoom"
+output_directory = "/home/yc/thesis/snomedCT/0_sig/mex"
 
 # Create the output directory if it does not exist
 os.makedirs(output_directory, exist_ok=True)

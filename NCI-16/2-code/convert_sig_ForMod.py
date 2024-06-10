@@ -14,10 +14,10 @@ def format_urls(urls):
 
 if __name__ == "__main__":
     # Specify the path where the signature files are located
-    signature_folder = r"/home/yc/thesis/snomedct16_sig"
+    signature_folder = r"/home/yc/thesis/NCI-16/0-Signatures_nci16/zoom/sig_50_10"
 
     # Specify the path for the output folder
-    output_folder = r"/home/yc/thesis/sig_formod"
+    output_folder = r"/home/yc/thesis/NCI-16/0-Signatures_nci16/formod/sig_50_10"
 
     # Loop through each signature file in the specified directory
     for file_name in os.listdir(signature_folder):

@@ -1,6 +1,3 @@
-"sample command for running the mex file:"
-"yz@yz-MS-Terminator-B760ITX-D4:~/thesis$ ./mex.bin -tbx /home/yz/formod/workspace/nci-16/nci-16.krss.owl -sig /home/yz/thesis/sig_MEX/sig_50_1/0"
-
 import subprocess
 import os
 import csv
@@ -10,9 +7,9 @@ import logging
 
 # Constants
 MEX_EXECUTABLE = "./mex.bin"
-ONTOLOGY_PATH = "/home/yz/formod/workspace/nci-16/nci-16.krss.owl"
-SIGNATURE_FOLDER = "/home/yz/thesis/sig_MEX/sig_50_10/"
-RESULT_FOLDER = "/home/yz/thesis/result_mex_nci-16/"
+ONTOLOGY_PATH = "/home/yc/thesis/snomedCT/external_data&program/snomedct012016.krss.owl"
+SIGNATURE_FOLDER = "/home/yc/thesis/snomedCT/0_sig/mex"
+RESULT_FOLDER = "/home/yc/thesis/snomedCT/1_result/1-sentimen_module"
 TIMEOUT = 600
 
 # Logging configuration
@@ -39,6 +36,9 @@ def run_mex(signature_file):
     except subprocess.TimeoutExpired:
         os.kill(process.pid, signal.SIGTERM)
         logger.warning(f"Terminated process for signature: {signature_file}")
+        return None, None, None
+    except Exception as e:
+        logger.error(f"Error running MEX for signature {signature_file}: {e}")
         return None, None, None
 
 # Function to save relevant output to a text file

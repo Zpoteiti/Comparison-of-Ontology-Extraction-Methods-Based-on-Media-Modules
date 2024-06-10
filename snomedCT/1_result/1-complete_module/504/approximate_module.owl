@@ -1,0 +1,17 @@
+Prefix(owl:=<http://www.w3.org/2002/07/owl#>)
+
+Ontology(
+EquivalentClasses(<0111328> ObjectSomeValuesFrom(<127489000> <32370002>))
+EquivalentClasses(<0111410> ObjectSomeValuesFrom(<127489000> <87174009>))
+EquivalentClasses(<0120342> ObjectSomeValuesFrom(<127489000> <410942007>))
+EquivalentClasses(<0147947> ObjectSomeValuesFrom(<127489000> <3601005>))
+SubClassOf(<259553003> <417953004>)
+SubClassOf(<32370002> ObjectIntersectionOf(<259553003> <372849009>))
+SubClassOf(<372849009> <373230006>)
+SubClassOf(<373230006> <373272007>)
+SubClassOf(<373272007> <410942007>)
+SubClassOf(<377366009> ObjectIntersectionOf(<0101988> <0111328> <0111410> <398742006>))
+SubClassOf(<417953004> ObjectIntersectionOf(<373272007> <418882002>))
+SubClassOf(<438878009> <3601005>)
+SubClassOf(<87174009> ObjectIntersectionOf(<372849009> <412042000> <438878009>))
+)

@@ -1,0 +1,130 @@
+==================================================================================
+ISWC 2017 Minimal Modules (Version 0.1)
+==================================================================================
+
+
+Loading ontology...
+Number of logical axioms in original ontology: 34
+Ontology loaded.
+Finished loading.
+Reading signature from /home/yc/thesis/snomedCT/0_sig/zoom/736...
+	Number of concept names in signature: 50
+	Number of role names in signature: 10
+Computing Sigma-entailment:
+
+Computing witness justifications for <428477002>
+
+Computing witness justifications for <80848004>
+
+Computing witness justifications for <108116000>
+
+Computing witness justifications for <080726>
+
+Computing witness justifications for <235572000>
+
+Computing witness justifications for <290031007>
+
+Computing witness justifications for <105400008>
+
+Computing witness justifications for <439090000>
+
+Computing witness justifications for <466910007>
+
+Computing witness justifications for <25660007>
+
+Computing witness justifications for <031481>
+
+Computing witness justifications for <263697003>
+
+Computing witness justifications for <311668005>
+
+Computing witness justifications for <0146050>
+
+Computing witness justifications for <97161000119106>
+
+Computing witness justifications for <074130>
+
+Computing witness justifications for <62451002>
+
+Computing witness justifications for <3513008>
+
+Computing witness justifications for <033230>
+
+Computing witness justifications for <082199>
+
+Computing witness justifications for <215785007>
+
+Computing witness justifications for <406361000>
+
+Computing witness justifications for <26576000>
+
+Computing witness justifications for <026342>
+
+Computing witness justifications for <88925009>
+
+Computing witness justifications for <051543>
+
+Computing witness justifications for <0140614>
+
+Computing witness justifications for <449926001>
+
+Computing witness justifications for <37002005>
+
+Computing witness justifications for <25010000>
+
+Computing witness justifications for <72167002>
+
+Computing witness justifications for <0122797>
+
+Computing witness justifications for <0106865>
+
+Computing witness justifications for <286771001>
+
+Computing witness justifications for <0156002>
+
+Computing witness justifications for <0111572>
+
+Computing witness justifications for <0144926>
+
+Computing witness justifications for <447135002>
+
+Computing witness justifications for <0161>
+
+Computing witness justifications for <258619000>
+
+Computing witness justifications for <239999004>
+
+Computing witness justifications for <234588005>
+
+Computing witness justifications for <059455>
+
+Computing witness justifications for <239234004>
+
+Computing witness justifications for <035397>
+
+Computing witness justifications for <705446003>
+
+Computing witness justifications for <0123115>
+
+Computing witness justifications for <25577004>
+
+Computing witness justifications for <217423004>
+
+Computing witness justifications for <084433>
+Number of minimal modules: 1
+--------------------------------------------
+EquivalentClasses(<051543> ObjectIntersectionOf(<02> <038805>) )
+EquivalentClasses(<031481> ObjectSomeValuesFrom(<609096000> <031480>) )
+EquivalentClasses(<031480> ObjectIntersectionOf(<010> <01219> <030836>) )
+EquivalentClasses(<030836> ObjectSomeValuesFrom(<260686004> <257786008>) )
+EquivalentClasses(<37002005> ObjectIntersectionOf(<0109727> <0109729> <427357007>) )
+EquivalentClasses(<02> ObjectSomeValuesFrom(<370135005> <441862004>) )
+EquivalentClasses(<0109727> ObjectSomeValuesFrom(<609096000> <0109726>) )
+EquivalentClasses(<021476> ObjectSomeValuesFrom(<260686004> <129393004>) )
+SubClassOf(<406361000> <353903006>)
+EquivalentClasses(<0105035> ObjectSomeValuesFrom(<127489000> <395756007>) )
+EquivalentClasses(<0109726> ObjectIntersectionOf(<010> <01219> <021476>) )
+SubClassOf(<353903006> <0105035>)
+EquivalentClasses(<0111572> ObjectSomeValuesFrom(<127489000> <77764008>) )
+SubClassOf(<129393004> <257786008>)
+The size of a minimal module: 14

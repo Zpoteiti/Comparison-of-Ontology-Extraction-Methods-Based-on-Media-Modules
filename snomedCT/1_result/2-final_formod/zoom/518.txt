@@ -1,0 +1,130 @@
+==================================================================================
+ISWC 2017 Minimal Modules (Version 0.1)
+==================================================================================
+
+
+Loading ontology...
+Number of logical axioms in original ontology: 47
+Ontology loaded.
+Finished loading.
+Reading signature from /home/yc/thesis/snomedCT/0_sig/zoom/518...
+	Number of concept names in signature: 50
+	Number of role names in signature: 10
+Computing Sigma-entailment:
+
+Computing witness justifications for <054998>
+
+Computing witness justifications for <421540003>
+
+Computing witness justifications for <439350008>
+
+Computing witness justifications for <0166104>
+
+Computing witness justifications for <305481008>
+
+Computing witness justifications for <314183000>
+
+Computing witness justifications for <438519003>
+
+Computing witness justifications for <012434>
+
+Computing witness justifications for <211370005>
+
+Computing witness justifications for <210446004>
+
+Computing witness justifications for <286490005>
+
+Computing witness justifications for <326666009>
+
+Computing witness justifications for <425909009>
+
+Computing witness justifications for <099059>
+
+Computing witness justifications for <074899>
+
+Computing witness justifications for <52492008>
+
+Computing witness justifications for <359876006>
+
+Computing witness justifications for <023822>
+
+Computing witness justifications for <0120635>
+
+Computing witness justifications for <288281005>
+
+Computing witness justifications for <423669006>
+
+Computing witness justifications for <79038001>
+
+Computing witness justifications for <416988005>
+
+Computing witness justifications for <424004006>
+
+Computing witness justifications for <78013004>
+
+Computing witness justifications for <468865001>
+
+Computing witness justifications for <0153924>
+
+Computing witness justifications for <035968>
+
+Computing witness justifications for <62502003>
+
+Computing witness justifications for <274293001>
+
+Computing witness justifications for <13333006>
+
+Computing witness justifications for <0114605>
+
+Computing witness justifications for <26125006>
+
+Computing witness justifications for <398440002>
+
+Computing witness justifications for <446548003>
+
+Computing witness justifications for <177988000>
+
+Computing witness justifications for <427363003>
+
+Computing witness justifications for <05599>
+
+Computing witness justifications for <165562007>
+
+Computing witness justifications for <409490006>
+
+Computing witness justifications for <088821>
+
+Computing witness justifications for <090185>
+
+Computing witness justifications for <164158004>
+
+Computing witness justifications for <420724005>
+
+Computing witness justifications for <066228>
+
+Computing witness justifications for <430041006>
+
+Computing witness justifications for <0125978>
+
+Computing witness justifications for <34101000119105>
+
+Computing witness justifications for <0138762>
+
+Computing witness justifications for <701783005>
+Number of minimal modules: 1
+--------------------------------------------
+EquivalentClasses(<06327> ObjectSomeValuesFrom(<116676008> <416286003>) )
+EquivalentClasses(<0141> ObjectSomeValuesFrom(<116676008> <23583003>) )
+EquivalentClasses(<0807> ObjectSomeValuesFrom(<260686004> <410756002>) )
+EquivalentClasses(<074899> ObjectIntersectionOf(<031645> <09334> <09961>) )
+EquivalentClasses(<021894> ObjectSomeValuesFrom(<411116001> <420692007>) )
+EquivalentClasses(<0153924> ObjectIntersectionOf(<0138879> <06327>) )
+SubClassOf(<409490006> <0103504>)
+EquivalentClasses(<090185> ObjectIntersectionOf(<0141> <090184>) )
+SubClassOf(<326666009> <021894>)
+EquivalentClasses(<012434> ObjectIntersectionOf(<04651> <04901> <09209>) )
+EquivalentClasses(<04901> ObjectSomeValuesFrom(<260686004> <129326001>) )
+EquivalentClasses(<0103504> ObjectSomeValuesFrom(<411116001> <422060001>) )
+EquivalentClasses(<035968> ObjectIntersectionOf(<068> <0807>) )
+EquivalentClasses(<09334> ObjectSomeValuesFrom(<260686004> <129377008>) )
+The size of a minimal module: 14

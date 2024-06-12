@@ -1,0 +1,130 @@
+==================================================================================
+ISWC 2017 Minimal Modules (Version 0.1)
+==================================================================================
+
+
+Loading ontology...
+Number of logical axioms in original ontology: 51
+Ontology loaded.
+Finished loading.
+Reading signature from /home/yc/thesis/snomedCT/0_sig/zoom/15...
+	Number of concept names in signature: 50
+	Number of role names in signature: 10
+Computing Sigma-entailment:
+
+Computing witness justifications for <420818005>
+
+Computing witness justifications for <406760002>
+
+Computing witness justifications for <282170008>
+
+Computing witness justifications for <371041009>
+
+Computing witness justifications for <467291009>
+
+Computing witness justifications for <035122>
+
+Computing witness justifications for <230390002>
+
+Computing witness justifications for <74138002>
+
+Computing witness justifications for <303685005>
+
+Computing witness justifications for <0154404>
+
+Computing witness justifications for <207709008>
+
+Computing witness justifications for <442289461000087106>
+
+Computing witness justifications for <279070004>
+
+Computing witness justifications for <069289>
+
+Computing witness justifications for <704513002>
+
+Computing witness justifications for <0134751>
+
+Computing witness justifications for <403157006>
+
+Computing witness justifications for <414194000>
+
+Computing witness justifications for <417347005>
+
+Computing witness justifications for <446192007>
+
+Computing witness justifications for <366554007>
+
+Computing witness justifications for <09767>
+
+Computing witness justifications for <468844007>
+
+Computing witness justifications for <0121674>
+
+Computing witness justifications for <078187>
+
+Computing witness justifications for <396101008>
+
+Computing witness justifications for <0155788>
+
+Computing witness justifications for <63845005>
+
+Computing witness justifications for <169056004>
+
+Computing witness justifications for <0134331>
+
+Computing witness justifications for <0160588>
+
+Computing witness justifications for <13801008>
+
+Computing witness justifications for <346433008>
+
+Computing witness justifications for <0106024>
+
+Computing witness justifications for <215687008>
+
+Computing witness justifications for <62796005>
+
+Computing witness justifications for <014759>
+
+Computing witness justifications for <200222004>
+
+Computing witness justifications for <35213004>
+
+Computing witness justifications for <0135811>
+
+Computing witness justifications for <0113569>
+
+Computing witness justifications for <095953>
+
+Computing witness justifications for <090821>
+
+Computing witness justifications for <37976006>
+
+Computing witness justifications for <428672001>
+
+Computing witness justifications for <399769004>
+
+Computing witness justifications for <3819004>
+
+Computing witness justifications for <310395004>
+
+Computing witness justifications for <283032003>
+
+Computing witness justifications for <53520000>
+Number of minimal modules: 1
+--------------------------------------------
+EquivalentClasses(<04124> ObjectIntersectionOf(<0141> <0448>) )
+EquivalentClasses(<04125> ObjectSomeValuesFrom(<609096000> <04124>) )
+EquivalentClasses(<703938007> ObjectIntersectionOf(<04125> <95320005>) )
+EquivalentClasses(<0106024> ObjectSomeValuesFrom(<609096000> <0106023>) )
+EquivalentClasses(<0448> ObjectSomeValuesFrom(<363698007> <39937001>) )
+EquivalentClasses(<010327> ObjectSomeValuesFrom(<424226004> <79068005>) )
+SubClassOf(<39937001> <127856007>)
+SubClassOf(<403157006> <279353003>)
+EquivalentClasses(<05287> ObjectSomeValuesFrom(<363698007> <83908009>) )
+SubClassOf(<279353003> <703938007>)
+EquivalentClasses(<0106023> ObjectIntersectionOf(<0141> <040097>) )
+EquivalentClasses(<0134331> ObjectIntersectionOf(<010327> <04650> <04651> <052>) )
+EquivalentClasses(<0154404> ObjectIntersectionOf(<0154402> <05287>) )
+EquivalentClasses(<040097> ObjectSomeValuesFrom(<363698007> <127856007>) )
+The size of a minimal module: 14

@@ -7,11 +7,11 @@ import logging
 
 # Constants
 JAVA_EXECUTABLE = "java"
-JAVA_JAR_PATH = "/home/yc/thesis/ISWC17.jar"
-SIGNATURE_FOLDER = "/home/yc/thesis/Signatures_nci16/sig_50_1/"
-RESULT_FOLDER = "/home/yc/thesis/result_nci-16_mex+zoom/"
-MODULES_FOLDER = "/home/yc/thesis/result_mex/sig_50_1/"
-TIMEOUT_SECONDS = 300  # Timeout for the Java process (in seconds)
+JAVA_JAR_PATH = "/home/yc/thesis/snomedCT/external_data&program/ISWC17.jar"
+SIGNATURE_FOLDER = "/home/yc/thesis/snomedCT/0_sig/zoom"
+RESULT_FOLDER = "/home/yc/thesis/snomedCT/1_result/2-final_mex"
+MODULES_FOLDER = "/home/yc/thesis/snomedCT/1_result/1-sentimen_module"
+TIMEOUT_SECONDS = 600  # Timeout for the Java process (in seconds)
 
 # Logging configuration
 logging.basicConfig(level=logging.INFO)

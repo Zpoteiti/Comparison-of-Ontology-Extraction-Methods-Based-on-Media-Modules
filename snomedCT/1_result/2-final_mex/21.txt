@@ -1,0 +1,360 @@
+==================================================================================
+ISWC 2017 Minimal Modules (Version 0.1)
+==================================================================================
+
+
+Loading ontology...
+Number of logical axioms in original ontology: 854
+Ontology loaded.
+Finished loading.
+Reading signature from /home/yc/thesis/snomedCT/0_sig/zoom/21...
+	Number of concept names in signature: 50
+	Number of role names in signature: 10
+Computing Sigma-entailment:
+
+Computing witness justifications for <280111008>
+
+Computing witness justifications for <251861001>
+
+Computing witness justifications for <444573001>
+
+Computing witness justifications for <419434009>
+
+Computing witness justifications for <438596009>
+
+Computing witness justifications for <81956008>
+
+Computing witness justifications for <0109598>
+
+Computing witness justifications for <163893003>
+
+Computing witness justifications for <073312>
+
+Computing witness justifications for <0122693>
+
+Computing witness justifications for <118475007>
+
+Computing witness justifications for <66190008>
+
+Computing witness justifications for <0133501>
+
+Computing witness justifications for <237535005>
+
+Computing witness justifications for <0146808>
+
+Computing witness justifications for <315103009>
+
+Computing witness justifications for <86961006>
+
+Computing witness justifications for <0101284>
+
+Computing witness justifications for <0169349>
+
+Computing witness justifications for <016351>
+
+Computing witness justifications for <121369006>
+
+Computing witness justifications for <231876002>
+
+Computing witness justifications for <064501>
+
+Computing witness justifications for <0145150>
+
+Computing witness justifications for <421363009>
+
+Computing witness justifications for <90864005>
+
+Computing witness justifications for <3037004>
+
+Computing witness justifications for <41295003>
+
+Computing witness justifications for <285545007>
+
+Computing witness justifications for <0136039>
+
+Computing witness justifications for <67441006>
+
+Computing witness justifications for <0140736>
+
+Computing witness justifications for <260350009>
+
+Computing witness justifications for <406024002>
+
+Computing witness justifications for <44851002>
+
+Computing witness justifications for <219063001>
+
+Computing witness justifications for <19353002>
+
+Computing witness justifications for <097822>
+tree: [097822, [097822], []]
+comp: [[]]
+nonConj2: 097822
+nonConj2Justifications: []
+gamma: [[]]
+comp2: []
+tree: [097822, [011558, 029697], [EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) )]]
+comp: [[EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) )]]
+nonConj2: 029697
+-029697____029697___results: [[EquivalentClasses(<0101283> ObjectSomeValuesFrom(<424244007> <56242006>) ), EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), SubClassOf(<56242006> <30821001>), EquivalentClasses(<029697> ObjectSomeValuesFrom(<424244007> <30821001>) ), EquivalentClasses(<0101284> ObjectIntersectionOf(<0101283> <029784>) )]]
+nonConj2Justifications: [[EquivalentClasses(<0101283> ObjectSomeValuesFrom(<424244007> <56242006>) ), EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), SubClassOf(<56242006> <30821001>), EquivalentClasses(<029697> ObjectSomeValuesFrom(<424244007> <30821001>) ), EquivalentClasses(<0101284> ObjectIntersectionOf(<0101283> <029784>) )]]
+gamma: [[EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) )]]
+comp2: [[EquivalentClasses(<0101283> ObjectSomeValuesFrom(<424244007> <56242006>) ), EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), SubClassOf(<56242006> <30821001>), EquivalentClasses(<029697> ObjectSomeValuesFrom(<424244007> <30821001>) ), EquivalentClasses(<0101284> ObjectIntersectionOf(<0101283> <029784>) )]]
+nonConj2: 011558
+-011558____011558___results: [[EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), SubClassOf(<699592006> <91829005>), EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) ), SubClassOf(<69695003> <699602007>), SubClassOf(<28231008> <699602007>), EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) ), SubClassOf(<91829005> <22943007>), SubClassOf(<699602007> <19203006>), EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) ), SubClassOf(<19203006> <699601000>), SubClassOf(<699601000> <699592006>), EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) ), EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) )], [SubClassOf(<34707002> <303270005>), EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), SubClassOf(<28231008> <34707002>), EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) ), SubClassOf(<303270005> <281501002>), SubClassOf(<609616003> <63337009>), EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) ), EquivalentClasses(<281501002> ObjectIntersectionOf(<699592006> <86762007>) ), SubClassOf(<69695003> <281501002>), SubClassOf(<420473002> <22943007>), SubClassOf(<699592006> <113345001>), SubClassOf(<63337009> <420473002>), EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) ), EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) ), EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) ), SubClassOf(<113345001> <609616003>)], [EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) ), SubClassOf(<28231008> <699602007>), SubClassOf(<609616003> <63337009>), EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) ), EquivalentClasses(<281501002> ObjectIntersectionOf(<699592006> <86762007>) ), SubClassOf(<69695003> <281501002>), SubClassOf(<420473002> <22943007>), SubClassOf(<699592006> <113345001>), SubClassOf(<63337009> <420473002>), SubClassOf(<699602007> <19203006>), EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) ), SubClassOf(<19203006> <699601000>), SubClassOf(<699601000> <699592006>), EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) ), EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) ), SubClassOf(<113345001> <609616003>)], [SubClassOf(<34707002> <303270005>), EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), SubClassOf(<28231008> <34707002>), EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) ), SubClassOf(<69695003> <699602007>), SubClassOf(<303270005> <281501002>), SubClassOf(<609616003> <63337009>), EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) ), EquivalentClasses(<281501002> ObjectIntersectionOf(<699592006> <86762007>) ), SubClassOf(<420473002> <22943007>), SubClassOf(<699592006> <113345001>), SubClassOf(<63337009> <420473002>), SubClassOf(<699602007> <19203006>), EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) ), SubClassOf(<19203006> <699601000>), SubClassOf(<699601000> <699592006>), EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) ), EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) ), SubClassOf(<113345001> <609616003>)], [SubClassOf(<34707002> <303270005>), EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), SubClassOf(<699592006> <91829005>), SubClassOf(<28231008> <34707002>), EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) ), SubClassOf(<69695003> <699602007>), SubClassOf(<303270005> <281501002>), EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) ), EquivalentClasses(<281501002> ObjectIntersectionOf(<699592006> <86762007>) ), SubClassOf(<91829005> <22943007>), SubClassOf(<699602007> <19203006>), EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) ), SubClassOf(<19203006> <699601000>), SubClassOf(<699601000> <699592006>), EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) ), EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) )], [SubClassOf(<34707002> <303270005>), EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), SubClassOf(<699592006> <91829005>), SubClassOf(<28231008> <34707002>), EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) ), SubClassOf(<303270005> <281501002>), EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) ), EquivalentClasses(<281501002> ObjectIntersectionOf(<699592006> <86762007>) ), SubClassOf(<69695003> <281501002>), SubClassOf(<91829005> <22943007>), EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) ), EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) ), EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) )], [EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), SubClassOf(<699592006> <91829005>), EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) ), SubClassOf(<28231008> <699602007>), EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) ), EquivalentClasses(<281501002> ObjectIntersectionOf(<699592006> <86762007>) ), SubClassOf(<69695003> <281501002>), SubClassOf(<91829005> <22943007>), SubClassOf(<699602007> <19203006>), EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) ), SubClassOf(<19203006> <699601000>), SubClassOf(<699601000> <699592006>), EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) ), EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) )], [EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) ), SubClassOf(<69695003> <699602007>), SubClassOf(<28231008> <699602007>), SubClassOf(<609616003> <63337009>), EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) ), SubClassOf(<420473002> <22943007>), SubClassOf(<699592006> <113345001>), SubClassOf(<63337009> <420473002>), SubClassOf(<699602007> <19203006>), EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) ), SubClassOf(<19203006> <699601000>), SubClassOf(<699601000> <699592006>), EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) ), EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) ), SubClassOf(<113345001> <609616003>)]]
+nonConj2Justifications: [[EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), SubClassOf(<699592006> <91829005>), EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) ), SubClassOf(<69695003> <699602007>), SubClassOf(<28231008> <699602007>), EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) ), SubClassOf(<91829005> <22943007>), SubClassOf(<699602007> <19203006>), EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) ), SubClassOf(<19203006> <699601000>), SubClassOf(<699601000> <699592006>), EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) ), EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) )], [SubClassOf(<34707002> <303270005>), EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), SubClassOf(<28231008> <34707002>), EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) ), SubClassOf(<303270005> <281501002>), SubClassOf(<609616003> <63337009>), EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) ), EquivalentClasses(<281501002> ObjectIntersectionOf(<699592006> <86762007>) ), SubClassOf(<69695003> <281501002>), SubClassOf(<420473002> <22943007>), SubClassOf(<699592006> <113345001>), SubClassOf(<63337009> <420473002>), EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) ), EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) ), EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) ), SubClassOf(<113345001> <609616003>)], [EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) ), SubClassOf(<28231008> <699602007>), SubClassOf(<609616003> <63337009>), EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) ), EquivalentClasses(<281501002> ObjectIntersectionOf(<699592006> <86762007>) ), SubClassOf(<69695003> <281501002>), SubClassOf(<420473002> <22943007>), SubClassOf(<699592006> <113345001>), SubClassOf(<63337009> <420473002>), SubClassOf(<699602007> <19203006>), EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) ), SubClassOf(<19203006> <699601000>), SubClassOf(<699601000> <699592006>), EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) ), EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) ), SubClassOf(<113345001> <609616003>)], [SubClassOf(<34707002> <303270005>), EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), SubClassOf(<28231008> <34707002>), EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) ), SubClassOf(<69695003> <699602007>), SubClassOf(<303270005> <281501002>), SubClassOf(<609616003> <63337009>), EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) ), EquivalentClasses(<281501002> ObjectIntersectionOf(<699592006> <86762007>) ), SubClassOf(<420473002> <22943007>), SubClassOf(<699592006> <113345001>), SubClassOf(<63337009> <420473002>), SubClassOf(<699602007> <19203006>), EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) ), SubClassOf(<19203006> <699601000>), SubClassOf(<699601000> <699592006>), EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) ), EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) ), SubClassOf(<113345001> <609616003>)], [SubClassOf(<34707002> <303270005>), EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), SubClassOf(<699592006> <91829005>), SubClassOf(<28231008> <34707002>), EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) ), SubClassOf(<69695003> <699602007>), SubClassOf(<303270005> <281501002>), EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) ), EquivalentClasses(<281501002> ObjectIntersectionOf(<699592006> <86762007>) ), SubClassOf(<91829005> <22943007>), SubClassOf(<699602007> <19203006>), EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) ), SubClassOf(<19203006> <699601000>), SubClassOf(<699601000> <699592006>), EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) ), EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) )], [SubClassOf(<34707002> <303270005>), EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), SubClassOf(<699592006> <91829005>), SubClassOf(<28231008> <34707002>), EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) ), SubClassOf(<303270005> <281501002>), EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) ), EquivalentClasses(<281501002> ObjectIntersectionOf(<699592006> <86762007>) ), SubClassOf(<69695003> <281501002>), SubClassOf(<91829005> <22943007>), EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) ), EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) ), EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) )], [EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), SubClassOf(<699592006> <91829005>), EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) ), SubClassOf(<28231008> <699602007>), EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) ), EquivalentClasses(<281501002> ObjectIntersectionOf(<699592006> <86762007>) ), SubClassOf(<69695003> <281501002>), SubClassOf(<91829005> <22943007>), SubClassOf(<699602007> <19203006>), EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) ), SubClassOf(<19203006> <699601000>), SubClassOf(<699601000> <699592006>), EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) ), EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) )], [EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) ), SubClassOf(<69695003> <699602007>), SubClassOf(<28231008> <699602007>), SubClassOf(<609616003> <63337009>), EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) ), SubClassOf(<420473002> <22943007>), SubClassOf(<699592006> <113345001>), SubClassOf(<63337009> <420473002>), SubClassOf(<699602007> <19203006>), EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) ), SubClassOf(<19203006> <699601000>), SubClassOf(<699601000> <699592006>), EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) ), EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) ), SubClassOf(<113345001> <609616003>)]]
+gamma: [[EquivalentClasses(<0101283> ObjectSomeValuesFrom(<424244007> <56242006>) ), EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), SubClassOf(<56242006> <30821001>), EquivalentClasses(<029697> ObjectSomeValuesFrom(<424244007> <30821001>) ), EquivalentClasses(<0101284> ObjectIntersectionOf(<0101283> <029784>) )]]
+comp2: [[EquivalentClasses(<0101283> ObjectSomeValuesFrom(<424244007> <56242006>) ), SubClassOf(<34707002> <303270005>), EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), SubClassOf(<699592006> <91829005>), SubClassOf(<28231008> <34707002>), SubClassOf(<56242006> <30821001>), EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) ), EquivalentClasses(<029697> ObjectSomeValuesFrom(<424244007> <30821001>) ), SubClassOf(<69695003> <699602007>), SubClassOf(<303270005> <281501002>), EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) ), EquivalentClasses(<281501002> ObjectIntersectionOf(<699592006> <86762007>) ), SubClassOf(<91829005> <22943007>), SubClassOf(<699602007> <19203006>), EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) ), SubClassOf(<19203006> <699601000>), EquivalentClasses(<0101284> ObjectIntersectionOf(<0101283> <029784>) ), SubClassOf(<699601000> <699592006>), EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) ), EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) )], [EquivalentClasses(<0101283> ObjectSomeValuesFrom(<424244007> <56242006>) ), SubClassOf(<34707002> <303270005>), EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), SubClassOf(<699592006> <91829005>), SubClassOf(<28231008> <34707002>), SubClassOf(<56242006> <30821001>), EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) ), EquivalentClasses(<029697> ObjectSomeValuesFrom(<424244007> <30821001>) ), SubClassOf(<303270005> <281501002>), EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) ), EquivalentClasses(<281501002> ObjectIntersectionOf(<699592006> <86762007>) ), SubClassOf(<69695003> <281501002>), SubClassOf(<91829005> <22943007>), EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) ), EquivalentClasses(<0101284> ObjectIntersectionOf(<0101283> <029784>) ), EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) ), EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) )], [EquivalentClasses(<0101283> ObjectSomeValuesFrom(<424244007> <56242006>) ), EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), SubClassOf(<699592006> <91829005>), SubClassOf(<56242006> <30821001>), EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) ), EquivalentClasses(<029697> ObjectSomeValuesFrom(<424244007> <30821001>) ), SubClassOf(<28231008> <699602007>), EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) ), EquivalentClasses(<281501002> ObjectIntersectionOf(<699592006> <86762007>) ), SubClassOf(<69695003> <281501002>), SubClassOf(<91829005> <22943007>), SubClassOf(<699602007> <19203006>), EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) ), SubClassOf(<19203006> <699601000>), EquivalentClasses(<0101284> ObjectIntersectionOf(<0101283> <029784>) ), SubClassOf(<699601000> <699592006>), EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) ), EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) )], [EquivalentClasses(<0101283> ObjectSomeValuesFrom(<424244007> <56242006>) ), EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), SubClassOf(<56242006> <30821001>), EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) ), EquivalentClasses(<029697> ObjectSomeValuesFrom(<424244007> <30821001>) ), SubClassOf(<69695003> <699602007>), SubClassOf(<28231008> <699602007>), SubClassOf(<609616003> <63337009>), EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) ), SubClassOf(<420473002> <22943007>), SubClassOf(<699592006> <113345001>), SubClassOf(<63337009> <420473002>), SubClassOf(<699602007> <19203006>), EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) ), SubClassOf(<19203006> <699601000>), EquivalentClasses(<0101284> ObjectIntersectionOf(<0101283> <029784>) ), SubClassOf(<699601000> <699592006>), EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) ), EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) ), SubClassOf(<113345001> <609616003>)], [EquivalentClasses(<0101283> ObjectSomeValuesFrom(<424244007> <56242006>) ), EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), SubClassOf(<699592006> <91829005>), SubClassOf(<56242006> <30821001>), EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) ), EquivalentClasses(<029697> ObjectSomeValuesFrom(<424244007> <30821001>) ), SubClassOf(<69695003> <699602007>), SubClassOf(<28231008> <699602007>), EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) ), SubClassOf(<91829005> <22943007>), SubClassOf(<699602007> <19203006>), EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) ), SubClassOf(<19203006> <699601000>), EquivalentClasses(<0101284> ObjectIntersectionOf(<0101283> <029784>) ), SubClassOf(<699601000> <699592006>), EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) ), EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) )], [EquivalentClasses(<0101283> ObjectSomeValuesFrom(<424244007> <56242006>) ), EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), SubClassOf(<56242006> <30821001>), EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) ), EquivalentClasses(<029697> ObjectSomeValuesFrom(<424244007> <30821001>) ), SubClassOf(<28231008> <699602007>), SubClassOf(<609616003> <63337009>), EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) ), EquivalentClasses(<281501002> ObjectIntersectionOf(<699592006> <86762007>) ), SubClassOf(<69695003> <281501002>), SubClassOf(<420473002> <22943007>), SubClassOf(<699592006> <113345001>), SubClassOf(<63337009> <420473002>), SubClassOf(<699602007> <19203006>), EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) ), SubClassOf(<19203006> <699601000>), EquivalentClasses(<0101284> ObjectIntersectionOf(<0101283> <029784>) ), SubClassOf(<699601000> <699592006>), EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) ), EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) ), SubClassOf(<113345001> <609616003>)], [EquivalentClasses(<0101283> ObjectSomeValuesFrom(<424244007> <56242006>) ), SubClassOf(<34707002> <303270005>), EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), SubClassOf(<28231008> <34707002>), SubClassOf(<56242006> <30821001>), EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) ), EquivalentClasses(<029697> ObjectSomeValuesFrom(<424244007> <30821001>) ), SubClassOf(<303270005> <281501002>), SubClassOf(<609616003> <63337009>), EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) ), EquivalentClasses(<281501002> ObjectIntersectionOf(<699592006> <86762007>) ), SubClassOf(<69695003> <281501002>), SubClassOf(<420473002> <22943007>), SubClassOf(<699592006> <113345001>), SubClassOf(<63337009> <420473002>), EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) ), EquivalentClasses(<0101284> ObjectIntersectionOf(<0101283> <029784>) ), EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) ), EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) ), SubClassOf(<113345001> <609616003>)], [EquivalentClasses(<0101283> ObjectSomeValuesFrom(<424244007> <56242006>) ), SubClassOf(<34707002> <303270005>), EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) ), SubClassOf(<28231008> <34707002>), SubClassOf(<56242006> <30821001>), EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) ), EquivalentClasses(<029697> ObjectSomeValuesFrom(<424244007> <30821001>) ), SubClassOf(<69695003> <699602007>), SubClassOf(<303270005> <281501002>), SubClassOf(<609616003> <63337009>), EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) ), EquivalentClasses(<281501002> ObjectIntersectionOf(<699592006> <86762007>) ), SubClassOf(<420473002> <22943007>), SubClassOf(<699592006> <113345001>), SubClassOf(<63337009> <420473002>), SubClassOf(<699602007> <19203006>), EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) ), SubClassOf(<19203006> <699601000>), EquivalentClasses(<0101284> ObjectIntersectionOf(<0101283> <029784>) ), SubClassOf(<699601000> <699592006>), EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) ), EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) ), SubClassOf(<113345001> <609616003>)]]
+
+Computing witness justifications for <0106628>
+
+Computing witness justifications for <5196006>
+
+Computing witness justifications for <368312003>
+
+Computing witness justifications for <089236>
+
+Computing witness justifications for <321812004>
+
+Computing witness justifications for <285150005>
+
+Computing witness justifications for <365879006>
+
+Computing witness justifications for <400389005>
+
+Computing witness justifications for <31465005>
+
+Computing witness justifications for <046678>
+
+Computing witness justifications for <714514004>
+
+Computing witness justifications for <701896004>
+Number of minimal modules: 8
+--------------------------------------------
+EquivalentClasses(<0101283> ObjectSomeValuesFrom(<424244007> <56242006>) )
+SubClassOf(<28231008> <699602007>)
+EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) )
+SubClassOf(<91829005> <22943007>)
+SubClassOf(<699602007> <19203006>)
+EquivalentClasses(<0136039> ObjectIntersectionOf(<01487> <029413> <030530>) )
+EquivalentClasses(<0169349> ObjectIntersectionOf(<018679> <05994>) )
+EquivalentClasses(<0101284> ObjectIntersectionOf(<0101283> <029784>) )
+EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) )
+EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) )
+SubClassOf(<699592006> <91829005>)
+SubClassOf(<56242006> <30821001>)
+EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) )
+EquivalentClasses(<029697> ObjectSomeValuesFrom(<424244007> <30821001>) )
+SubClassOf(<69695003> <699602007>)
+EquivalentClasses(<059217> ObjectSomeValuesFrom(<363700003> <272726003>) )
+EquivalentClasses(<016351> ObjectIntersectionOf(<012236> <016349> <016350>) )
+EquivalentClasses(<012236> ObjectSomeValuesFrom(<370133003> <413675001>) )
+EquivalentClasses(<01487> ObjectSomeValuesFrom(<363703001> <429892002>) )
+EquivalentClasses(<018679> ObjectSomeValuesFrom(<363698007> <19000002>) )
+EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) )
+SubClassOf(<19203006> <699601000>)
+SubClassOf(<699601000> <699592006>)
+EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) )
+The size of a minimal module: 24
+--------------------------------------------
+EquivalentClasses(<0101283> ObjectSomeValuesFrom(<424244007> <56242006>) )
+SubClassOf(<28231008> <699602007>)
+SubClassOf(<609616003> <63337009>)
+EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) )
+SubClassOf(<699592006> <113345001>)
+SubClassOf(<63337009> <420473002>)
+SubClassOf(<699602007> <19203006>)
+EquivalentClasses(<0136039> ObjectIntersectionOf(<01487> <029413> <030530>) )
+EquivalentClasses(<0169349> ObjectIntersectionOf(<018679> <05994>) )
+EquivalentClasses(<0101284> ObjectIntersectionOf(<0101283> <029784>) )
+EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) )
+EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) )
+SubClassOf(<56242006> <30821001>)
+EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) )
+EquivalentClasses(<029697> ObjectSomeValuesFrom(<424244007> <30821001>) )
+SubClassOf(<69695003> <699602007>)
+EquivalentClasses(<059217> ObjectSomeValuesFrom(<363700003> <272726003>) )
+EquivalentClasses(<016351> ObjectIntersectionOf(<012236> <016349> <016350>) )
+EquivalentClasses(<012236> ObjectSomeValuesFrom(<370133003> <413675001>) )
+SubClassOf(<420473002> <22943007>)
+EquivalentClasses(<01487> ObjectSomeValuesFrom(<363703001> <429892002>) )
+EquivalentClasses(<018679> ObjectSomeValuesFrom(<363698007> <19000002>) )
+EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) )
+SubClassOf(<19203006> <699601000>)
+SubClassOf(<699601000> <699592006>)
+EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) )
+SubClassOf(<113345001> <609616003>)
+The size of a minimal module: 27
+--------------------------------------------
+EquivalentClasses(<0101283> ObjectSomeValuesFrom(<424244007> <56242006>) )
+SubClassOf(<28231008> <699602007>)
+SubClassOf(<609616003> <63337009>)
+EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) )
+SubClassOf(<69695003> <281501002>)
+SubClassOf(<699592006> <113345001>)
+SubClassOf(<63337009> <420473002>)
+SubClassOf(<699602007> <19203006>)
+EquivalentClasses(<0136039> ObjectIntersectionOf(<01487> <029413> <030530>) )
+EquivalentClasses(<0169349> ObjectIntersectionOf(<018679> <05994>) )
+EquivalentClasses(<0101284> ObjectIntersectionOf(<0101283> <029784>) )
+EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) )
+EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) )
+SubClassOf(<56242006> <30821001>)
+EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) )
+EquivalentClasses(<029697> ObjectSomeValuesFrom(<424244007> <30821001>) )
+EquivalentClasses(<059217> ObjectSomeValuesFrom(<363700003> <272726003>) )
+EquivalentClasses(<016351> ObjectIntersectionOf(<012236> <016349> <016350>) )
+EquivalentClasses(<012236> ObjectSomeValuesFrom(<370133003> <413675001>) )
+EquivalentClasses(<281501002> ObjectIntersectionOf(<699592006> <86762007>) )
+SubClassOf(<420473002> <22943007>)
+EquivalentClasses(<01487> ObjectSomeValuesFrom(<363703001> <429892002>) )
+EquivalentClasses(<018679> ObjectSomeValuesFrom(<363698007> <19000002>) )
+EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) )
+SubClassOf(<19203006> <699601000>)
+SubClassOf(<699601000> <699592006>)
+EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) )
+SubClassOf(<113345001> <609616003>)
+The size of a minimal module: 28
+--------------------------------------------
+EquivalentClasses(<0101283> ObjectSomeValuesFrom(<424244007> <56242006>) )
+SubClassOf(<34707002> <303270005>)
+SubClassOf(<28231008> <34707002>)
+SubClassOf(<303270005> <281501002>)
+SubClassOf(<609616003> <63337009>)
+EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) )
+SubClassOf(<69695003> <281501002>)
+SubClassOf(<699592006> <113345001>)
+SubClassOf(<63337009> <420473002>)
+EquivalentClasses(<0136039> ObjectIntersectionOf(<01487> <029413> <030530>) )
+EquivalentClasses(<0169349> ObjectIntersectionOf(<018679> <05994>) )
+EquivalentClasses(<0101284> ObjectIntersectionOf(<0101283> <029784>) )
+EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) )
+EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) )
+SubClassOf(<56242006> <30821001>)
+EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) )
+EquivalentClasses(<029697> ObjectSomeValuesFrom(<424244007> <30821001>) )
+EquivalentClasses(<059217> ObjectSomeValuesFrom(<363700003> <272726003>) )
+EquivalentClasses(<016351> ObjectIntersectionOf(<012236> <016349> <016350>) )
+EquivalentClasses(<012236> ObjectSomeValuesFrom(<370133003> <413675001>) )
+EquivalentClasses(<281501002> ObjectIntersectionOf(<699592006> <86762007>) )
+SubClassOf(<420473002> <22943007>)
+EquivalentClasses(<01487> ObjectSomeValuesFrom(<363703001> <429892002>) )
+EquivalentClasses(<018679> ObjectSomeValuesFrom(<363698007> <19000002>) )
+EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) )
+EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) )
+SubClassOf(<113345001> <609616003>)
+The size of a minimal module: 27
+--------------------------------------------
+EquivalentClasses(<0101283> ObjectSomeValuesFrom(<424244007> <56242006>) )
+SubClassOf(<34707002> <303270005>)
+SubClassOf(<28231008> <34707002>)
+SubClassOf(<303270005> <281501002>)
+SubClassOf(<609616003> <63337009>)
+EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) )
+SubClassOf(<699592006> <113345001>)
+SubClassOf(<63337009> <420473002>)
+SubClassOf(<699602007> <19203006>)
+EquivalentClasses(<0136039> ObjectIntersectionOf(<01487> <029413> <030530>) )
+EquivalentClasses(<0169349> ObjectIntersectionOf(<018679> <05994>) )
+EquivalentClasses(<0101284> ObjectIntersectionOf(<0101283> <029784>) )
+EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) )
+EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) )
+SubClassOf(<56242006> <30821001>)
+EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) )
+EquivalentClasses(<029697> ObjectSomeValuesFrom(<424244007> <30821001>) )
+SubClassOf(<69695003> <699602007>)
+EquivalentClasses(<059217> ObjectSomeValuesFrom(<363700003> <272726003>) )
+EquivalentClasses(<016351> ObjectIntersectionOf(<012236> <016349> <016350>) )
+EquivalentClasses(<012236> ObjectSomeValuesFrom(<370133003> <413675001>) )
+EquivalentClasses(<281501002> ObjectIntersectionOf(<699592006> <86762007>) )
+SubClassOf(<420473002> <22943007>)
+EquivalentClasses(<01487> ObjectSomeValuesFrom(<363703001> <429892002>) )
+EquivalentClasses(<018679> ObjectSomeValuesFrom(<363698007> <19000002>) )
+EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) )
+SubClassOf(<19203006> <699601000>)
+SubClassOf(<699601000> <699592006>)
+EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) )
+SubClassOf(<113345001> <609616003>)
+The size of a minimal module: 30
+--------------------------------------------
+EquivalentClasses(<0101283> ObjectSomeValuesFrom(<424244007> <56242006>) )
+SubClassOf(<34707002> <303270005>)
+SubClassOf(<28231008> <34707002>)
+SubClassOf(<303270005> <281501002>)
+EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) )
+SubClassOf(<91829005> <22943007>)
+SubClassOf(<699602007> <19203006>)
+EquivalentClasses(<0136039> ObjectIntersectionOf(<01487> <029413> <030530>) )
+EquivalentClasses(<0169349> ObjectIntersectionOf(<018679> <05994>) )
+EquivalentClasses(<0101284> ObjectIntersectionOf(<0101283> <029784>) )
+EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) )
+EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) )
+SubClassOf(<699592006> <91829005>)
+SubClassOf(<56242006> <30821001>)
+EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) )
+EquivalentClasses(<029697> ObjectSomeValuesFrom(<424244007> <30821001>) )
+SubClassOf(<69695003> <699602007>)
+EquivalentClasses(<059217> ObjectSomeValuesFrom(<363700003> <272726003>) )
+EquivalentClasses(<016351> ObjectIntersectionOf(<012236> <016349> <016350>) )
+EquivalentClasses(<012236> ObjectSomeValuesFrom(<370133003> <413675001>) )
+EquivalentClasses(<281501002> ObjectIntersectionOf(<699592006> <86762007>) )
+EquivalentClasses(<01487> ObjectSomeValuesFrom(<363703001> <429892002>) )
+EquivalentClasses(<018679> ObjectSomeValuesFrom(<363698007> <19000002>) )
+EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) )
+SubClassOf(<19203006> <699601000>)
+SubClassOf(<699601000> <699592006>)
+EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) )
+The size of a minimal module: 27
+--------------------------------------------
+EquivalentClasses(<0101283> ObjectSomeValuesFrom(<424244007> <56242006>) )
+SubClassOf(<34707002> <303270005>)
+SubClassOf(<28231008> <34707002>)
+SubClassOf(<303270005> <281501002>)
+EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) )
+SubClassOf(<69695003> <281501002>)
+SubClassOf(<91829005> <22943007>)
+EquivalentClasses(<0136039> ObjectIntersectionOf(<01487> <029413> <030530>) )
+EquivalentClasses(<0169349> ObjectIntersectionOf(<018679> <05994>) )
+EquivalentClasses(<0101284> ObjectIntersectionOf(<0101283> <029784>) )
+EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) )
+EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) )
+SubClassOf(<699592006> <91829005>)
+SubClassOf(<56242006> <30821001>)
+EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) )
+EquivalentClasses(<029697> ObjectSomeValuesFrom(<424244007> <30821001>) )
+EquivalentClasses(<059217> ObjectSomeValuesFrom(<363700003> <272726003>) )
+EquivalentClasses(<016351> ObjectIntersectionOf(<012236> <016349> <016350>) )
+EquivalentClasses(<012236> ObjectSomeValuesFrom(<370133003> <413675001>) )
+EquivalentClasses(<281501002> ObjectIntersectionOf(<699592006> <86762007>) )
+EquivalentClasses(<01487> ObjectSomeValuesFrom(<363703001> <429892002>) )
+EquivalentClasses(<018679> ObjectSomeValuesFrom(<363698007> <19000002>) )
+EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) )
+EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) )
+The size of a minimal module: 24
+--------------------------------------------
+EquivalentClasses(<0101283> ObjectSomeValuesFrom(<424244007> <56242006>) )
+SubClassOf(<28231008> <699602007>)
+EquivalentClasses(<064501> ObjectIntersectionOf(<028783> <06818>) )
+SubClassOf(<69695003> <281501002>)
+SubClassOf(<91829005> <22943007>)
+SubClassOf(<699602007> <19203006>)
+EquivalentClasses(<0136039> ObjectIntersectionOf(<01487> <029413> <030530>) )
+EquivalentClasses(<0169349> ObjectIntersectionOf(<018679> <05994>) )
+EquivalentClasses(<0101284> ObjectIntersectionOf(<0101283> <029784>) )
+EquivalentClasses(<073312> ObjectIntersectionOf(<0501> <059217> <083>) )
+EquivalentClasses(<097822> ObjectIntersectionOf(<011558> <029697>) )
+SubClassOf(<699592006> <91829005>)
+SubClassOf(<56242006> <30821001>)
+EquivalentClasses(<083> ObjectSomeValuesFrom(<405813007> <69695003>) )
+EquivalentClasses(<029697> ObjectSomeValuesFrom(<424244007> <30821001>) )
+EquivalentClasses(<059217> ObjectSomeValuesFrom(<363700003> <272726003>) )
+EquivalentClasses(<016351> ObjectIntersectionOf(<012236> <016349> <016350>) )
+EquivalentClasses(<012236> ObjectSomeValuesFrom(<370133003> <413675001>) )
+EquivalentClasses(<281501002> ObjectIntersectionOf(<699592006> <86762007>) )
+EquivalentClasses(<01487> ObjectSomeValuesFrom(<363703001> <429892002>) )
+EquivalentClasses(<018679> ObjectSomeValuesFrom(<363698007> <19000002>) )
+EquivalentClasses(<011558> ObjectSomeValuesFrom(<405813007> <22943007>) )
+SubClassOf(<19203006> <699601000>)
+SubClassOf(<699601000> <699592006>)
+EquivalentClasses(<06818> ObjectSomeValuesFrom(<405813007> <28231008>) )
+The size of a minimal module: 25

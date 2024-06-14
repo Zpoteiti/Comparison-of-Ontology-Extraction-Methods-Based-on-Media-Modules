@@ -7,10 +7,10 @@ import logging
 
 # Constants
 JAVA_EXECUTABLE = "java"
-JAVA_JAR_PATH = "/home/yc/thesis/ISWC17.jar"
-ONTOLOGY_PATH = "/home/yc/thesis/snomedct012016.owl"
-SIGNATURE_FOLDER = "/home/yc/thesis/snomedct16_sig"
-RESULT_FOLDER = "/home/yc/thesis/snomedct16_result"
+JAVA_JAR_PATH = "/home/yc/thesis/NCI-16/external_program&data/ISWC17.jar"
+ONTOLOGY_PATH = "/home/yc/thesis/NCI-16/external_program&data/nci-16.owl"
+SIGNATURE_FOLDER = "/home/yc/thesis/NCI-16/0-Signatures_nci16/zoom/sig_50_2"
+RESULT_FOLDER = "/home/yc/thesis/NCI-16/1-result/2-final_zoom"
 
 # Logging configuration
 logging.basicConfig(level=logging.INFO)

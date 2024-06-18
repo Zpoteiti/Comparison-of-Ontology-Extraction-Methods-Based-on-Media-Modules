@@ -19,7 +19,7 @@ def main():
     directory = Path('/home/yc/thesis/snomedCT/1_result/1-sentimen_module')
     
     # Define the total number of expected files
-    total_files = 100
+    total_files = 1000
     
     # Get the list of expected .krss files
     expected_files = get_expected_files(directory, total_files)

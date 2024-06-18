@@ -26,7 +26,7 @@ def extract_information(file_path):
 
 def main(folder_path):
     result_data = []
-    for i in range(100):
+    for i in range(1000):
         file_path = os.path.join(folder_path, f"{i}.txt")
         if os.path.exists(file_path):
             result_data.append(extract_information(file_path))
@@ -47,5 +47,5 @@ def main(folder_path):
             writer.writerow(data)
 
 if __name__ == "__main__":
-    folder_path = "/home/yc/thesis/NCI-16/1-result/2-final_mex/sig_50_10"
+    folder_path = "/home/yc/thesis/snomedCT/1_result/2-final_zoom"
     main(folder_path)

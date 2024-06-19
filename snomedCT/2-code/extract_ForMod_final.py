@@ -47,6 +47,6 @@ def main(folder_path, total_files):
             writer.writerow(data)
 
 if __name__ == "__main__":
-    folder_path = "/home/yc/thesis/snomedCT/1_result/2-final_formod"
-    total_files = 1000
+    folder_path = "/home/yc/thesis/snomedCT/1_result/520"
+    total_files = 1
     main(folder_path, total_files)

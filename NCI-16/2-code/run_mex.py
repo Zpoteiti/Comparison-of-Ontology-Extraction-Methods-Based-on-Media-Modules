@@ -8,14 +8,14 @@ import logging
 # Constants for MEX
 MEX_EXECUTABLE = "./mex.bin"
 ONTOLOGY_PATH = "/home/yc/thesis/NCI-16/external_program&data/nci-16.krss.owl"
-SIGNATURE_FOLDER_MEX = "/home/yc/thesis/NCI-16/0-Signatures/MEX/sig_50_1/"
-RESULT_FOLDER_MEX = "/home/yc/thesis/NCI-16/1-result/1-sementic/sig_50_1/"
+SIGNATURE_FOLDER_MEX = "/home/yc/thesis/NCI-16/0-Signatures/MEX/sig_50_2/"
+RESULT_FOLDER_MEX = "/home/yc/thesis/NCI-16/1-result/1-sementic/sig_50_2/"
 
 # Constants for AllMinMods
 JAVA_EXECUTABLE = "java"
 JAVA_JAR_PATH = "/home/yc/thesis/NCI-16/external_program&data/AllMinMods.jar"
-SIGNATURE_FOLDER_ALLMINMODS = "/home/yc/thesis/NCI-16/0-Signatures/AllMinMods/sig_50_1/"
-RESULT_FOLDER_ALLMINMODS = "/home/yc/thesis/NCI-16/1-result/2-mex/sig_50_1/"
+SIGNATURE_FOLDER_ALLMINMODS = "/home/yc/thesis/NCI-16/0-Signatures/AllMinMods/sig_50_2/"
+RESULT_FOLDER_ALLMINMODS = "/home/yc/thesis/NCI-16/1-result/2-mex/sig_50_2/"
 
 # Common constants
 TIMEOUT_SECONDS = 600

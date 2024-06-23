@@ -47,5 +47,5 @@ def main(folder_path):
             writer.writerow(data)
 
 if __name__ == "__main__":
-    folder_path = "/home/yc/thesis/snomedCT/1_result/2-final_zoom"
+    folder_path = "/home/yc/thesis-main/snomedCT/1_result/2-final_mex/"
     main(folder_path)

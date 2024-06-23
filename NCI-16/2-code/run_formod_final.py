@@ -8,9 +8,9 @@ import logging
 # Constants
 JAVA_EXECUTABLE = "java"
 JAVA_JAR_PATH = "/home/yc/thesis/NCI-16/external_program&data/AllMinMods.jar"
-SIGNATURE_FOLDER = "/home/yc/thesis/NCI-16/0-Signatures_nci16/sig_MEX/sig_50_4"
-RESULT_FOLDER = "/home/yc/thesis/NCI-16/1-result/2-final_formod/sig_50_4"
-MODULES_FOLDER = "/home/yc/thesis/NCI-16/1-result/1-complete_module/query_sig_4"
+SIGNATURE_FOLDER = "/home/yc/thesis/NCI-16/0-Signatures_nci16/AllMinMods/sig_50_8"
+RESULT_FOLDER = "/home/yc/thesis/NCI-16/1-result/2-final_ForMod"
+MODULES_FOLDER = "/home/yc/thesis/NCI-16/1-result/1-complete_module/query_sig_8"
 TIMEOUT_SECONDS = 600  # Timeout for the Java process (in seconds)
 
 # Logging configuration

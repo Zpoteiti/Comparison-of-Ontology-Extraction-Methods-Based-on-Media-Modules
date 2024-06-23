@@ -1,0 +1,131 @@
+==================================================================================
+ISWC 2017 Minimal Modules (Version 0.1)
+==================================================================================
+
+
+Loading ontology...
+Number of logical axioms in original ontology: 10
+Ontology loaded.
+Finished loading.
+Reading signature from /home/yc/thesis/NCI-16/0-Signatures_nci16/AllMinMods/sig_50_5/18...
+	Number of concept names in signature: 50
+	Number of role names in signature: 10
+Computing Sigma-entailment:
+
+Computing witness justifications for <95337>
+
+Computing witness justifications for <99458>
+
+Computing witness justifications for <98566>
+
+Computing witness justifications for <91494>
+
+Computing witness justifications for <011392>
+
+Computing witness justifications for <61768>
+
+Computing witness justifications for <114472>
+
+Computing witness justifications for <20928>
+
+Computing witness justifications for <124102>
+
+Computing witness justifications for <07077>
+
+Computing witness justifications for <60276>
+
+Computing witness justifications for <4765>
+
+Computing witness justifications for <88443>
+
+Computing witness justifications for <13888>
+
+Computing witness justifications for <33933>
+
+Computing witness justifications for <13891>
+
+Computing witness justifications for <102574>
+
+Computing witness justifications for <017521>
+
+Computing witness justifications for <68924>
+
+Computing witness justifications for <117449>
+
+Computing witness justifications for <40976>
+
+Computing witness justifications for <125945>
+
+Computing witness justifications for <88518>
+
+Computing witness justifications for <14424>
+
+Computing witness justifications for <87860>
+
+Computing witness justifications for <11997>
+
+Computing witness justifications for <108201>
+
+Computing witness justifications for <17385>
+
+Computing witness justifications for <18871>
+
+Computing witness justifications for <06528>
+
+Computing witness justifications for <58131>
+
+Computing witness justifications for <72471>
+
+Computing witness justifications for <51460>
+
+Computing witness justifications for <06202>
+
+Computing witness justifications for <81111>
+
+Computing witness justifications for <84103>
+
+Computing witness justifications for <11928>
+
+Computing witness justifications for <51423>
+
+Computing witness justifications for <37279>
+
+Computing witness justifications for <90931>
+
+Computing witness justifications for <65383>
+
+Computing witness justifications for <71713>
+
+Computing witness justifications for <109942>
+
+Computing witness justifications for <104096>
+
+Computing witness justifications for <62443>
+
+Computing witness justifications for <01228>
+
+Computing witness justifications for <58581>
+
+Computing witness justifications for <103519>
+
+Computing witness justifications for <011358>
+
+Computing witness justifications for <984>
+Number of minimal modules: 2
+--------------------------------------------
+EquivalentClasses(<03986> ObjectSomeValuesFrom(<00108> <60643>) )
+EquivalentClasses(<5131> ObjectIntersectionOf(<03986> <9293>) )
+EquivalentClasses(<06202> ObjectSomeValuesFrom(<00132> <36641>) )
+EquivalentClasses(<011392> ObjectSomeValuesFrom(<00108> <34738>) )
+EquivalentClasses(<71713> ObjectIntersectionOf(<71024> <71699>) )
+EquivalentClasses(<71024> ObjectIntersectionOf(<3381> <5131>) )
+The size of a minimal module: 6
+--------------------------------------------
+EquivalentClasses(<4798> ObjectIntersectionOf(<013673> <7062>) )
+EquivalentClasses(<06202> ObjectSomeValuesFrom(<00132> <36641>) )
+EquivalentClasses(<71699> ObjectIntersectionOf(<3381> <71700>) )
+EquivalentClasses(<71700> ObjectIntersectionOf(<4798> <9293>) )
+EquivalentClasses(<011392> ObjectSomeValuesFrom(<00108> <34738>) )
+EquivalentClasses(<71713> ObjectIntersectionOf(<71024> <71699>) )
+EquivalentClasses(<013673> ObjectSomeValuesFrom(<00108> <38155>) )
+The size of a minimal module: 7

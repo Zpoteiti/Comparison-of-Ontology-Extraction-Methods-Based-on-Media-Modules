@@ -60,6 +60,6 @@ def main(folder_path, total_files):
             writer.writerow(data)
 
 if __name__ == "__main__":
-    folder_path = "/home/yc/thesis-main/snomedCT/1_result/2-final_formod"
+    folder_path = "/home/yc/thesis-main/snomedCT/1_result/2-final_mex"
     total_files = 1000
     main(folder_path, total_files)

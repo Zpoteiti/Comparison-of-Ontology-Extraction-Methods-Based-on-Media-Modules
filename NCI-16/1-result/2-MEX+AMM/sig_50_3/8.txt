@@ -1,0 +1,133 @@
+==================================================================================
+ISWC 2017 Minimal Modules (Version 0.1)
+==================================================================================
+
+
+Loading ontology...
+Number of logical axioms in original ontology: 4435
+Ontology loaded.
+Finished loading.
+Reading signature from /home/yc/thesis/NCI-16/0-Signatures_nci16/sig_MEX/sig_50_3/8...
+	Number of concept names in signature: 50
+	Number of role names in signature: 10
+Computing Sigma-entailment:
+
+Computing witness justifications for <19583>
+
+Computing witness justifications for <65322>
+
+Computing witness justifications for <91576>
+
+Computing witness justifications for <7080>
+
+Computing witness justifications for <013172>
+
+Computing witness justifications for <35152>
+
+Computing witness justifications for <62898>
+
+Computing witness justifications for <22234>
+
+Computing witness justifications for <126253>
+
+Computing witness justifications for <08767>
+
+Computing witness justifications for <118199>
+
+Computing witness justifications for <018579>
+
+Computing witness justifications for <89857>
+
+Computing witness justifications for <116895>
+
+Computing witness justifications for <84000>
+
+Computing witness justifications for <011629>
+
+Computing witness justifications for <108435>
+
+Computing witness justifications for <28668>
+
+Computing witness justifications for <10629>
+
+Computing witness justifications for <103016>
+
+Computing witness justifications for <44131>
+
+Computing witness justifications for <36478>
+
+Computing witness justifications for <17699>
+
+Computing witness justifications for <88277>
+
+Computing witness justifications for <13017>
+
+Computing witness justifications for <47874>
+
+Computing witness justifications for <113831>
+
+Computing witness justifications for <109498>
+
+Computing witness justifications for <97015>
+
+Computing witness justifications for <018368>
+
+Computing witness justifications for <9286>
+
+Computing witness justifications for <58251>
+
+Computing witness justifications for <125930>
+
+Computing witness justifications for <60971>
+
+Computing witness justifications for <86488>
+
+Computing witness justifications for <014958>
+
+Computing witness justifications for <105529>
+
+Computing witness justifications for <54739>
+
+Computing witness justifications for <18720>
+
+Computing witness justifications for <101100>
+
+Computing witness justifications for <36175>
+
+Computing witness justifications for <14728>
+
+Computing witness justifications for <10404>
+
+Computing witness justifications for <55673>
+
+Computing witness justifications for <32697>
+
+Computing witness justifications for <33420>
+
+Computing witness justifications for <114243>
+
+Computing witness justifications for <50343>
+
+Computing witness justifications for <39209>
+
+Computing witness justifications for <102505>
+Number of minimal modules: 1
+--------------------------------------------
+EquivalentClasses(<05650> ObjectSomeValuesFrom(<0082> <12754>) )
+SubClassOf(<13056> <05650>)
+SubClassOf(<33422> <32430>)
+EquivalentClasses(<9290> ObjectIntersectionOf(<011390> <011552> <018073> <27134>) )
+SubClassOf(<32430> <32040>)
+SubClassOf(<32040> <13056>)
+SubClassOf(<33420> <33422>)
+SubClassOf(<12909> <05643>)
+EquivalentClasses(<011552> ObjectSomeValuesFrom(<00103> <13051>) )
+EquivalentClasses(<9235> ObjectIntersectionOf(<017961> <017962> <09720> <84269>) )
+SubClassOf(<13051> <05412>)
+EquivalentClasses(<43284> ObjectIntersectionOf(<011797> <09607> <9235>) )
+EquivalentClasses(<4345> ObjectIntersectionOf(<013201> <09200> <35501> <9290>) )
+EquivalentClasses(<9286> ObjectIntersectionOf(<010513> <011560> <016615> <018051> <018052> <018053> <018054> <018055> <018056> <018057> <43284>) )
+EquivalentClasses(<05643> ObjectSomeValuesFrom(<0082> <41165>) )
+EquivalentClasses(<05412> ObjectSomeValuesFrom(<0082> <12909>) )
+EquivalentClasses(<84269> ObjectIntersectionOf(<011348> <017509> <017510> <4345> <9295>) )
+The size of a minimal module: 17

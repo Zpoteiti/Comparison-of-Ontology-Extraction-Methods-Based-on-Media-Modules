@@ -7,10 +7,10 @@ import logging
 
 # Constants for AllMinMods
 JAVA_EXECUTABLE = "java"
-JAVA_JAR_PATH = "/home/yc/thesis/NCI-16/external_program&data/AllMinMods.jar"
-ONTOLOGY_PATH = "/home/yc/thesis/NCI-16/external_program&data/nci-16.krss.owl"
-SIGNATURE_FOLDER_ALLMINMODS = "/home/yc/thesis/NCI-16/0-Signatures/AllMinMods/sig_50_1/"
-RESULT_FOLDER_ALLMINMODS = "/home/yc/thesis/NCI-16/1-result/2-mex/sig_50_1/"
+JAVA_JAR_PATH = "/home/yc/thesis/NCI-16/External_program&data/blackbox.jar"
+ONTOLOGY_PATH = "/home/yc/thesis/NCI-16/External_program&data/nci-16.owl"
+SIGNATURE_FOLDER_ALLMINMODS = "/home/yc/thesis/NCI-16/0-Signatures/allminmods/sig_50_2"
+RESULT_FOLDER_ALLMINMODS = "/home/yc/thesis/NCI-16/1-Result/2-BlackBox/sig_50_2"
 
 # Common constants
 TIMEOUT_SECONDS = 600
@@ -115,6 +115,8 @@ def main():
                 'Number of Minimal Modules': 'NA'
             }
         results_amm.append(result_data)
+
+            
 
     # Write AMM results to CSV
     results_summary_csv_path = os.path.join(RESULT_FOLDER_ALLMINMODS, 'results_summary.csv')

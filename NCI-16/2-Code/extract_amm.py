@@ -38,7 +38,7 @@ def main(folder_path):
                 'Number of Minimal Modules': 'NA'
             })
 
-    result_csv_path = os.path.join(folder_path, 'result.csv')
+    result_csv_path = os.path.join(folder_path, 'extracted.csv')
     with open(result_csv_path, 'w', newline='') as csvfile:
         fieldnames = ['Signature', 'First Minimal Module Size', 'Union of All Module Size', 'Number of Minimal Modules']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)

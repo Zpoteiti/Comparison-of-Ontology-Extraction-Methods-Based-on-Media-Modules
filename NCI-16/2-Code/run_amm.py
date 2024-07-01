@@ -9,8 +9,8 @@ import logging
 JAVA_EXECUTABLE = "java"
 JAVA_JAR_PATH = "/home/yc/thesis/NCI-16/External_program&data/blackbox.jar"
 ONTOLOGY_PATH = "/home/yc/thesis/NCI-16/External_program&data/nci-16.owl"
-SIGNATURE_FOLDER_ALLMINMODS = "/home/yc/thesis/NCI-16/0-Signatures/allminmods/sig_50_2"
-RESULT_FOLDER_ALLMINMODS = "/home/yc/thesis/NCI-16/1-Result/2-BlackBox/sig_50_2"
+SIGNATURE_FOLDER_ALLMINMODS = "/home/yc/thesis/NCI-16/0-Signatures/allminmods/sig_50_3"
+RESULT_FOLDER_ALLMINMODS = "/home/yc/thesis/NCI-16/1-Result/2-BlackBox/sig_50_3"
 
 # Common constants
 TIMEOUT_SECONDS = 600

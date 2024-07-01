@@ -8,15 +8,4 @@ Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
 
 Ontology(<owlapi:ontology#ont6>
 
-Declaration(Class(<016004>))
-Declaration(Class(<0240>))
-Declaration(Class(<13929>))
-Declaration(Class(<60421>))
-Declaration(Class(<60597>))
-Declaration(Class(<60683>))
-Declaration(ObjectProperty(<0025>))
-Declaration(ObjectProperty(<0050>))
-EquivalentClasses(<016004> ObjectSomeValuesFrom(<0025> <60597>))
-EquivalentClasses(<0240> ObjectSomeValuesFrom(<0050> <13929>))
-SubClassOf(<60421> ObjectIntersectionOf(<60683> <016004>))
 )

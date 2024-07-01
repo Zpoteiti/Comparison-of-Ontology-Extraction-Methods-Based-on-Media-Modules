@@ -1,0 +1,70 @@
+==================================================================================
+All Minimal Modules (Version 0.1)
+==================================================================================
+
+
+Loading ontology...
+Number of logical axioms in original ontology: 137397
+Extracting all minimal modules for the signature... 
+The size of locality-based module is: 1673
+Computing the logical difference core...
+The size of core is 22
+Time for computing core is 47.774
+Time for compute all minimal modules is 50.591
+Number of minimal modules: 2
+----------
+SubClassOf(<13202> ObjectIntersectionOf(<05747> <13404>))
+SubClassOf(<43596> ObjectIntersectionOf(<05853> <14135>))
+EquivalentClasses(<09215> ObjectSomeValuesFrom(<0088> <28054>) )
+EquivalentClasses(<05853> ObjectSomeValuesFrom(<0082> <12508>) )
+SubClassOf(<13203> <13202>)
+EquivalentClasses(<03273> ObjectSomeValuesFrom(<0027> <17234>) )
+SubClassOf(<13532> ObjectIntersectionOf(<05817> <13355>))
+EquivalentClasses(<05809> ObjectSomeValuesFrom(<0082> <13532>) )
+EquivalentClasses(<05747> ObjectSomeValuesFrom(<0082> <13201>) )
+SubClassOf(<13948> ObjectIntersectionOf(<05809> <13432>))
+EquivalentClasses(<02586> ObjectSomeValuesFrom(<0053> <21566>) )
+EquivalentClasses(<05744> ObjectSomeValuesFrom(<0082> <13197>) )
+SubClassOf(<13207> <13203>)
+EquivalentClasses(<05817> ObjectSomeValuesFrom(<0082> <13207>) )
+SubClassOf(<108704> ObjectIntersectionOf(<03289> <107687>))
+SubClassOf(<13201> ObjectIntersectionOf(<05744> <34070>))
+EquivalentClasses(<03289> ObjectSomeValuesFrom(<0027> <43484>) )
+EquivalentClasses(<06037> ObjectSomeValuesFrom(<0027> <26275>) )
+EquivalentClasses(<5884> ObjectIntersectionOf(<8034> <8990>) )
+EquivalentClasses(<8034> ObjectIntersectionOf(<09215> <9315>) )
+EquivalentClasses(<8203> ObjectIntersectionOf(<5884> <8177>) )
+SubClassOf(<43484> ObjectIntersectionOf(<03273> <30010>))
+SubClassOf(<17234> ObjectIntersectionOf(<06037> <25464>))
+SubClassOf(<13197> ObjectIntersectionOf(<05745> <14135>))
+EquivalentClasses(<05745> ObjectSomeValuesFrom(<0082> <43596>) )
+The size of a minimal module: 25
+----------
+----------
+SubClassOf(<13202> ObjectIntersectionOf(<05747> <13404>))
+SubClassOf(<43596> ObjectIntersectionOf(<05853> <14135>))
+EquivalentClasses(<09215> ObjectSomeValuesFrom(<0088> <28054>) )
+EquivalentClasses(<05853> ObjectSomeValuesFrom(<0082> <12508>) )
+EquivalentClasses(<03273> ObjectSomeValuesFrom(<0027> <17234>) )
+EquivalentClasses(<05746> ObjectSomeValuesFrom(<0082> <13202>) )
+SubClassOf(<13532> ObjectIntersectionOf(<05817> <13355>))
+EquivalentClasses(<05809> ObjectSomeValuesFrom(<0082> <13532>) )
+EquivalentClasses(<05747> ObjectSomeValuesFrom(<0082> <13201>) )
+SubClassOf(<13948> ObjectIntersectionOf(<05809> <13432>))
+EquivalentClasses(<02586> ObjectSomeValuesFrom(<0053> <21566>) )
+EquivalentClasses(<05744> ObjectSomeValuesFrom(<0082> <13197>) )
+SubClassOf(<13377> ObjectIntersectionOf(<05746> <13446>))
+SubClassOf(<13355> <13377>)
+SubClassOf(<108704> ObjectIntersectionOf(<03289> <107687>))
+SubClassOf(<13201> ObjectIntersectionOf(<05744> <34070>))
+EquivalentClasses(<03289> ObjectSomeValuesFrom(<0027> <43484>) )
+EquivalentClasses(<06037> ObjectSomeValuesFrom(<0027> <26275>) )
+EquivalentClasses(<5884> ObjectIntersectionOf(<8034> <8990>) )
+EquivalentClasses(<8034> ObjectIntersectionOf(<09215> <9315>) )
+EquivalentClasses(<8203> ObjectIntersectionOf(<5884> <8177>) )
+SubClassOf(<43484> ObjectIntersectionOf(<03273> <30010>))
+SubClassOf(<17234> ObjectIntersectionOf(<06037> <25464>))
+SubClassOf(<13197> ObjectIntersectionOf(<05745> <14135>))
+EquivalentClasses(<05745> ObjectSomeValuesFrom(<0082> <43596>) )
+The size of a minimal module: 25
+----------

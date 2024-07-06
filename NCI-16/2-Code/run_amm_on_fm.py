@@ -10,7 +10,7 @@ JAVA_EXECUTABLE = "java"
 JAVA_JAR_PATH = "/home/yc/thesis/snomedCT/external_data&program/ISWC17.jar"
 SIGNATURE_FOLDER = "/home/yc/thesis/snomedCT/0_sig/zoom"
 RESULT_FOLDER = "/home/yc/thesis/snomedCT/1_result/2-final_formod"
-MODULES_FOLDER = "/home/yc/thesis/snomedCT/1_result/1-complete_module"
+MODULES_FOLDER = "/home/yc/thesis/NCI-16/1-Result/1-approximate_module/query_sig_7"
 TIMEOUT_SECONDS = 600  # Timeout for the Java process (in seconds)
 
 # Logging configuration

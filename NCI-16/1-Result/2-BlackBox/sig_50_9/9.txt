@@ -1,0 +1,39 @@
+==================================================================================
+All Minimal Modules (Version 0.1)
+==================================================================================
+
+
+Loading ontology...
+Number of logical axioms in original ontology: 137397
+Extracting all minimal modules for the signature... 
+The size of locality-based module is: 1520
+Computing the logical difference core...
+The size of core is 6
+Time for computing core is 41.348
+Time for compute all minimal modules is 43.764
+Number of minimal modules: 2
+----------
+SubClassOf(<63460> ObjectIntersectionOf(<00> <016189> <016194> <019> <020> <03> <034> <05> <053> <07> <09> <63442>))
+EquivalentClasses(<8968> ObjectIntersectionOf(<010629> <011308> <011309> <011310> <011311> <011312> <011313> <011314> <011319> <05106> <05566> <05567> <09325> <09463> <3209> <8504>) )
+EquivalentClasses(<05602> ObjectSomeValuesFrom(<00142> <36104>) )
+SubClassOf(<49292> <16632>)
+EquivalentClasses(<8504> ObjectIntersectionOf(<05602> <7215>) )
+EquivalentClasses(<016189> ObjectSomeValuesFrom(<00172> <3211>) )
+SubClassOf(<108110> ObjectIntersectionOf(<03275> <107687>))
+EquivalentClasses(<7219> ObjectIntersectionOf(<015942> <05566> <05567> <09463> <7218> <8968>) )
+SubClassOf(<107687> <49292>)
+The size of a minimal module: 9
+----------
+----------
+SubClassOf(<63460> ObjectIntersectionOf(<00> <016189> <016194> <019> <020> <03> <034> <05> <053> <07> <09> <63442>))
+SubClassOf(<49292> <16632>)
+EquivalentClasses(<09987> ObjectSomeValuesFrom(<00142> <36156>) )
+EquivalentClasses(<016189> ObjectSomeValuesFrom(<00172> <3211>) )
+SubClassOf(<108110> ObjectIntersectionOf(<03275> <107687>))
+EquivalentClasses(<7218> ObjectIntersectionOf(<3209> <45249>) )
+EquivalentClasses(<2920> ObjectIntersectionOf(<04125> <09657> <09987> <3372>) )
+EquivalentClasses(<7219> ObjectIntersectionOf(<015942> <05566> <05567> <09463> <7218> <8968>) )
+EquivalentClasses(<45249> ObjectIntersectionOf(<27910> <2920> <45240> <7614>) )
+SubClassOf(<107687> <49292>)
+The size of a minimal module: 10
+----------

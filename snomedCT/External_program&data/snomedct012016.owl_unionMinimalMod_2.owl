@@ -1,0 +1,24 @@
+Prefix(:=<owlapi:ontology#ont6#>)
+Prefix(owl:=<http://www.w3.org/2002/07/owl#>)
+Prefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)
+Prefix(xml:=<http://www.w3.org/XML/1998/namespace>)
+Prefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)
+Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
+
+
+Ontology(<owlapi:ontology#ont6>
+
+Declaration(Class(<0169539>))
+Declaration(Class(<0173491>))
+Declaration(Class(<05994>))
+Declaration(Class(<06762>))
+Declaration(Class(<08281>))
+Declaration(Class(<08661>))
+Declaration(Class(<3898006>))
+Declaration(Class(<86251006>))
+Declaration(ObjectProperty(<116676008>))
+EquivalentClasses(<0169539> ObjectIntersectionOf(<08661> <05994>))
+EquivalentClasses(<0173491> ObjectIntersectionOf(<08281> <06762>))
+EquivalentClasses(<05994> ObjectSomeValuesFrom(<116676008> <3898006>))
+EquivalentClasses(<06762> ObjectSomeValuesFrom(<116676008> <86251006>))
+)

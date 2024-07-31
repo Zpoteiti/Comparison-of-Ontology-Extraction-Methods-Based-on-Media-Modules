@@ -1,0 +1,46 @@
+==================================================================================
+All Minimal Modules (Version 0.1)
+==================================================================================
+
+
+Loading ontology...
+Number of logical axioms in original ontology: 137397
+Extracting all minimal modules for the signature... 
+The size of locality-based module is: 1157
+Computing the logical difference core...
+The size of core is 3
+Time for computing core is 19.123
+Time for compute all minimal modules is 21.59
+Number of minimal modules: 4
+----------
+EquivalentClasses(<02543> ObjectSomeValuesFrom(<00123> <2695>) )
+EquivalentClasses(<04> ObjectSomeValuesFrom(<00123> <855>) )
+SubClassOf(<10438> ObjectIntersectionOf(<031> <04> <61063>))
+EquivalentClasses(<043> ObjectSomeValuesFrom(<00123> <930>) )
+SubClassOf(<10263> ObjectIntersectionOf(<017> <043> <61063>))
+The size of a minimal module: 5
+----------
+----------
+EquivalentClasses(<02543> ObjectSomeValuesFrom(<00123> <2695>) )
+EquivalentClasses(<031> ObjectSomeValuesFrom(<00123> <1583>) )
+SubClassOf(<10438> ObjectIntersectionOf(<031> <04> <61063>))
+EquivalentClasses(<043> ObjectSomeValuesFrom(<00123> <930>) )
+SubClassOf(<10263> ObjectIntersectionOf(<017> <043> <61063>))
+The size of a minimal module: 5
+----------
+----------
+EquivalentClasses(<02543> ObjectSomeValuesFrom(<00123> <2695>) )
+EquivalentClasses(<017> ObjectSomeValuesFrom(<00123> <376>) )
+EquivalentClasses(<031> ObjectSomeValuesFrom(<00123> <1583>) )
+SubClassOf(<10438> ObjectIntersectionOf(<031> <04> <61063>))
+SubClassOf(<10263> ObjectIntersectionOf(<017> <043> <61063>))
+The size of a minimal module: 5
+----------
+----------
+EquivalentClasses(<02543> ObjectSomeValuesFrom(<00123> <2695>) )
+EquivalentClasses(<04> ObjectSomeValuesFrom(<00123> <855>) )
+EquivalentClasses(<017> ObjectSomeValuesFrom(<00123> <376>) )
+SubClassOf(<10438> ObjectIntersectionOf(<031> <04> <61063>))
+SubClassOf(<10263> ObjectIntersectionOf(<017> <043> <61063>))
+The size of a minimal module: 5
+----------

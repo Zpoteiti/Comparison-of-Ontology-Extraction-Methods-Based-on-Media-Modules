@@ -1,0 +1,35 @@
+==================================================================================
+All Minimal Modules (Version 0.1)
+==================================================================================
+
+
+Loading ontology...
+Number of logical axioms in original ontology: 137397
+Extracting all minimal modules for the signature... 
+The size of locality-based module is: 657
+Computing the logical difference core...
+The size of core is 3
+Time for computing core is 6.003
+Time for compute all minimal modules is 6.402
+Number of minimal modules: 3
+----------
+EquivalentClasses(<4447> ObjectIntersectionOf(<012473> <012832> <013268> <3357>) )
+SubClassOf(<10731> ObjectIntersectionOf(<01579> <017> <0727> <61063>))
+EquivalentClasses(<012473> ObjectSomeValuesFrom(<00101> <12298>) )
+EquivalentClasses(<017> ObjectSomeValuesFrom(<00123> <376>) )
+The size of a minimal module: 4
+----------
+----------
+EquivalentClasses(<4447> ObjectIntersectionOf(<012473> <012832> <013268> <3357>) )
+SubClassOf(<10731> ObjectIntersectionOf(<01579> <017> <0727> <61063>))
+EquivalentClasses(<0727> ObjectSomeValuesFrom(<00123> <564>) )
+EquivalentClasses(<012473> ObjectSomeValuesFrom(<00101> <12298>) )
+The size of a minimal module: 4
+----------
+----------
+EquivalentClasses(<4447> ObjectIntersectionOf(<012473> <012832> <013268> <3357>) )
+SubClassOf(<10731> ObjectIntersectionOf(<01579> <017> <0727> <61063>))
+EquivalentClasses(<01579> ObjectSomeValuesFrom(<00123> <958>) )
+EquivalentClasses(<012473> ObjectSomeValuesFrom(<00101> <12298>) )
+The size of a minimal module: 4
+----------

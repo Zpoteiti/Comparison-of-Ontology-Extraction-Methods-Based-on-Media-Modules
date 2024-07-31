@@ -1,0 +1,38 @@
+==================================================================================
+All Minimal Modules (Version 0.1)
+==================================================================================
+
+
+Loading ontology...
+Number of logical axioms in original ontology: 493058
+Extracting all minimal modules for the signature... 
+The size of locality-based module is: 5202
+Computing the logical difference core...
+The size of core is 6
+Time for computing core is 519.086
+Time for compute all minimal modules is 535.242
+Number of minimal modules: 2
+----------
+SubClassOf(<83678007> <280369009>)
+SubClassOf(<280369009> <119235005>)
+EquivalentClasses(<053943> ObjectSomeValuesFrom(<405814001> <25087005>) )
+SubClassOf(<222036002> <83678007>)
+SubClassOf(<119243000> <222036002>)
+SubClassOf(<281230005> ObjectIntersectionOf(<123850002> <281830000>))
+SubClassOf(<119235005> ObjectIntersectionOf(<12738006> <281230005> <91717005>))
+SubClassOf(<281829005> <25087005>)
+SubClassOf(<281830000> ObjectIntersectionOf(<281829005> <774007>))
+The size of a minimal module: 9
+----------
+----------
+SubClassOf(<83678007> <280369009>)
+SubClassOf(<280369009> <119235005>)
+EquivalentClasses(<053943> ObjectSomeValuesFrom(<405814001> <25087005>) )
+SubClassOf(<222036002> <83678007>)
+SubClassOf(<21483005> <25087005>)
+SubClassOf(<389079005> ObjectIntersectionOf(<113343008> <21483005>))
+SubClassOf(<119243000> <222036002>)
+SubClassOf(<119235005> ObjectIntersectionOf(<12738006> <281230005> <91717005>))
+SubClassOf(<12738006> ObjectIntersectionOf(<128319008> <389079005>))
+The size of a minimal module: 9
+----------

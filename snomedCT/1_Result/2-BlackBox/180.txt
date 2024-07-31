@@ -1,0 +1,40 @@
+==================================================================================
+All Minimal Modules (Version 0.1)
+==================================================================================
+
+
+Loading ontology...
+Number of logical axioms in original ontology: 493058
+Extracting all minimal modules for the signature... 
+The size of locality-based module is: 5020
+Computing the logical difference core...
+The size of core is 8
+Time for computing core is 442.783
+Time for compute all minimal modules is 455.25
+Number of minimal modules: 2
+----------
+EquivalentClasses(<0124205> ObjectSomeValuesFrom(<127489000> <422284004>) )
+EquivalentClasses(<047> ObjectSomeValuesFrom(<260686004> <129306000>) )
+EquivalentClasses(<0102162> ObjectSomeValuesFrom(<127489000> <387583006>) )
+EquivalentClasses(<04858> ObjectSomeValuesFrom(<405813007> <28726007>) )
+EquivalentClasses(<09462> ObjectSomeValuesFrom(<260686004> <129407005>) )
+EquivalentClasses(<0123629> ObjectIntersectionOf(<04858> <09462>) )
+EquivalentClasses(<96299009> ObjectIntersectionOf(<0102162> <373873005>) )
+EquivalentClasses(<054926> ObjectIntersectionOf(<031403> <047> <051472>) )
+SubClassOf(<420563001> ObjectIntersectionOf(<0124205> <021938> <420843004>))
+The size of a minimal module: 9
+----------
+----------
+EquivalentClasses(<047> ObjectSomeValuesFrom(<260686004> <129306000>) )
+EquivalentClasses(<0102162> ObjectSomeValuesFrom(<127489000> <387583006>) )
+EquivalentClasses(<04858> ObjectSomeValuesFrom(<405813007> <28726007>) )
+EquivalentClasses(<09462> ObjectSomeValuesFrom(<260686004> <129407005>) )
+EquivalentClasses(<0123629> ObjectIntersectionOf(<04858> <09462>) )
+EquivalentClasses(<96299009> ObjectIntersectionOf(<0102162> <373873005>) )
+SubClassOf(<420843004> ObjectIntersectionOf(<0124205> <418845006>))
+EquivalentClasses(<0123277> ObjectSomeValuesFrom(<127489000> <418157000>) )
+EquivalentClasses(<054926> ObjectIntersectionOf(<031403> <047> <051472>) )
+SubClassOf(<418845006> ObjectIntersectionOf(<0123277> <56234005>))
+SubClassOf(<420563001> ObjectIntersectionOf(<0124205> <021938> <420843004>))
+The size of a minimal module: 11
+----------
